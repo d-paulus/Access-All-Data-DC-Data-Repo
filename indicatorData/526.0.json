@@ -1,0 +1,5917 @@
+{
+    "indicator": "CPIA building human resources rating",
+    "countryData": [
+        {
+            "Alpha-3 code": "AFG",
+            "Country or Area": "Afghanistan",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "AGO",
+            "Country or Area": "Angola",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 3.0
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 2.5
+                },
+                {
+                    "year": 2007,
+                    "value": 2.5
+                },
+                {
+                    "year": 2006,
+                    "value": 2.5
+                },
+                {
+                    "year": 2005,
+                    "value": 2.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ALB",
+            "Country or Area": "Albania",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ARM",
+            "Country or Area": "Armenia",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "AZE",
+            "Country or Area": "Azerbaijan",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BDI",
+            "Country or Area": "Burundi",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BEN",
+            "Country or Area": "Benin",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 4.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BFA",
+            "Country or Area": "Burkina Faso",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BGD",
+            "Country or Area": "Bangladesh",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BIH",
+            "Country or Area": "Bosnia and Herzegovina",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BOL",
+            "Country or Area": "Bolivia",
+            "data": [
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.5
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BTN",
+            "Country or Area": "Bhutan",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 4.5
+                },
+                {
+                    "year": 2006,
+                    "value": 4.5
+                },
+                {
+                    "year": 2007,
+                    "value": 4.5
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.5
+                },
+                {
+                    "year": 2010,
+                    "value": 4.5
+                },
+                {
+                    "year": 2014,
+                    "value": 4.5
+                },
+                {
+                    "year": 2016,
+                    "value": 4.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.5
+                },
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.5
+                },
+                {
+                    "year": 2017,
+                    "value": 4.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2021,
+                    "value": 4.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CAF",
+            "Country or Area": "CAR",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 2.5
+                },
+                {
+                    "year": 2020,
+                    "value": 2.5
+                },
+                {
+                    "year": 2022,
+                    "value": 2.5
+                },
+                {
+                    "year": 2016,
+                    "value": 2.5
+                },
+                {
+                    "year": 2017,
+                    "value": 2.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 2.5
+                },
+                {
+                    "year": 2013,
+                    "value": 2.5
+                },
+                {
+                    "year": 2012,
+                    "value": 2.5
+                },
+                {
+                    "year": 2015,
+                    "value": 2.5
+                },
+                {
+                    "year": 2014,
+                    "value": 2.5
+                },
+                {
+                    "year": 2010,
+                    "value": 2.5
+                },
+                {
+                    "year": 2011,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 2.0
+                },
+                {
+                    "year": 2007,
+                    "value": 2.0
+                },
+                {
+                    "year": 2005,
+                    "value": 2.0
+                },
+                {
+                    "year": 2006,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CIV",
+            "Country or Area": "C\u00f4te d'Ivoire",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 2.0
+                },
+                {
+                    "year": 2005,
+                    "value": 2.0
+                },
+                {
+                    "year": 2007,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 2.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 2.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CMR",
+            "Country or Area": "Cameroon",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.0
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "COD",
+            "Country or Area": "DRC",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "COG",
+            "Country or Area": "Congo",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "COM",
+            "Country or Area": "Comoros",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CPV",
+            "Country or Area": "Cape Verde",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 4.5
+                },
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2016,
+                    "value": 4.5
+                },
+                {
+                    "year": 2017,
+                    "value": 4.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5
+                },
+                {
+                    "year": 2014,
+                    "value": 4.5
+                },
+                {
+                    "year": 2010,
+                    "value": 4.5
+                },
+                {
+                    "year": 2011,
+                    "value": 4.5
+                },
+                {
+                    "year": 2009,
+                    "value": 4.5
+                },
+                {
+                    "year": 2008,
+                    "value": 4.5
+                },
+                {
+                    "year": 2007,
+                    "value": 4.5
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "DJI",
+            "Country or Area": "Djibouti",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "DMA",
+            "Country or Area": "Dominica",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 4.5
+                },
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2016,
+                    "value": 4.5
+                },
+                {
+                    "year": 2017,
+                    "value": 4.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5
+                },
+                {
+                    "year": 2014,
+                    "value": 4.5
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.5
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ERI",
+            "Country or Area": "Eritrea",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ETH",
+            "Country or Area": "Ethiopia",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.5
+                },
+                {
+                    "year": 2017,
+                    "value": 4.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5
+                },
+                {
+                    "year": 2014,
+                    "value": 4.5
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.5
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "FJI",
+            "Country or Area": "Fiji",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "FSM",
+            "Country or Area": "Micronesia",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GEO",
+            "Country or Area": "Georgia",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 4.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.5
+                },
+                {
+                    "year": 2011,
+                    "value": 4.5
+                },
+                {
+                    "year": 2010,
+                    "value": 4.5
+                },
+                {
+                    "year": 2009,
+                    "value": 4.5
+                },
+                {
+                    "year": 2008,
+                    "value": 4.5
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GHA",
+            "Country or Area": "Ghana",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 4.5
+                },
+                {
+                    "year": 2008,
+                    "value": 4.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.5
+                },
+                {
+                    "year": 2010,
+                    "value": 4.5
+                },
+                {
+                    "year": 2011,
+                    "value": 4.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GIN",
+            "Country or Area": "Guinea",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GMB",
+            "Country or Area": "Gambia",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2021,
+                    "value": 4.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GNB",
+            "Country or Area": "Guinea-Bissau",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 2.5
+                },
+                {
+                    "year": 2020,
+                    "value": 2.5
+                },
+                {
+                    "year": 2022,
+                    "value": 2.5
+                },
+                {
+                    "year": 2019,
+                    "value": 2.5
+                },
+                {
+                    "year": 2018,
+                    "value": 2.5
+                },
+                {
+                    "year": 2017,
+                    "value": 2.5
+                },
+                {
+                    "year": 2016,
+                    "value": 2.5
+                },
+                {
+                    "year": 2014,
+                    "value": 2.5
+                },
+                {
+                    "year": 2015,
+                    "value": 2.5
+                },
+                {
+                    "year": 2013,
+                    "value": 2.5
+                },
+                {
+                    "year": 2012,
+                    "value": 2.5
+                },
+                {
+                    "year": 2011,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 2.0
+                },
+                {
+                    "year": 2010,
+                    "value": 2.5
+                },
+                {
+                    "year": 2006,
+                    "value": 2.5
+                },
+                {
+                    "year": 2005,
+                    "value": 2.5
+                },
+                {
+                    "year": 2007,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 2.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GRD",
+            "Country or Area": "Grenada",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.5
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5
+                },
+                {
+                    "year": 2014,
+                    "value": 4.5
+                },
+                {
+                    "year": 2016,
+                    "value": 4.5
+                },
+                {
+                    "year": 2017,
+                    "value": 4.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2021,
+                    "value": 4.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GUY",
+            "Country or Area": "Guyana",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "HND",
+            "Country or Area": "Honduras",
+            "data": [
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "HTI",
+            "Country or Area": "Haiti",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 2.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 2.5
+                },
+                {
+                    "year": 2012,
+                    "value": 2.5
+                },
+                {
+                    "year": 2011,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 2.5
+                },
+                {
+                    "year": 2010,
+                    "value": 2.5
+                },
+                {
+                    "year": 2006,
+                    "value": 2.5
+                },
+                {
+                    "year": 2005,
+                    "value": 2.5
+                },
+                {
+                    "year": 2007,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 2.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IDN",
+            "Country or Area": "Indonesia",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IND",
+            "Country or Area": "India",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KEN",
+            "Country or Area": "Kenya",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KGZ",
+            "Country or Area": "Kyrgyzstan",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KHM",
+            "Country or Area": "Cambodia",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2021,
+                    "value": 4.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KIR",
+            "Country or Area": "Kiribati",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 2.5
+                },
+                {
+                    "year": 2005,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 2.5
+                },
+                {
+                    "year": 2007,
+                    "value": 2.5
+                },
+                {
+                    "year": 2010,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 2.5
+                },
+                {
+                    "year": 2011,
+                    "value": 2.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2012,
+                    "value": 2.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LAO",
+            "Country or Area": "Laos",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LBR",
+            "Country or Area": "Liberia",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 2.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 2.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LCA",
+            "Country or Area": "Saint Lucia",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2021,
+                    "value": 4.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LKA",
+            "Country or Area": "Sri Lanka",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.5
+                },
+                {
+                    "year": 2005,
+                    "value": 4.5
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.5
+                },
+                {
+                    "year": 2009,
+                    "value": 4.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.5
+                },
+                {
+                    "year": 2011,
+                    "value": 4.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2014,
+                    "value": 4.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LSO",
+            "Country or Area": "Lesotho",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MDA",
+            "Country or Area": "Moldova",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MDG",
+            "Country or Area": "Madagascar",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.0
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MDV",
+            "Country or Area": "Maldives",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2021,
+                    "value": 4.5
+                },
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.5
+                },
+                {
+                    "year": 2017,
+                    "value": 4.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MHL",
+            "Country or Area": "Marshall Islands",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 3.0
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MLI",
+            "Country or Area": "Mali",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MMR",
+            "Country or Area": "Myanmar",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 2.5
+                },
+                {
+                    "year": 2022,
+                    "value": 2.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MNG",
+            "Country or Area": "Mongolia",
+            "data": [
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MOZ",
+            "Country or Area": "Mozambique",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MRT",
+            "Country or Area": "Mauritania",
+            "data": [
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MWI",
+            "Country or Area": "Malawi",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NER",
+            "Country or Area": "Niger",
+            "data": [
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NGA",
+            "Country or Area": "Nigeria",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NIC",
+            "Country or Area": "Nicaragua",
+            "data": [
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NPL",
+            "Country or Area": "Nepal",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 4.5
+                },
+                {
+                    "year": 2011,
+                    "value": 4.5
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5
+                },
+                {
+                    "year": 2014,
+                    "value": 4.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.5
+                },
+                {
+                    "year": 2017,
+                    "value": 4.5
+                },
+                {
+                    "year": 2016,
+                    "value": 4.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2021,
+                    "value": 4.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PAK",
+            "Country or Area": "Pakistan",
+            "data": [
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PNG",
+            "Country or Area": "Papua New Guinea",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 2.5
+                },
+                {
+                    "year": 2011,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 2.5
+                },
+                {
+                    "year": 2010,
+                    "value": 2.5
+                },
+                {
+                    "year": 2006,
+                    "value": 2.5
+                },
+                {
+                    "year": 2005,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 2.5
+                },
+                {
+                    "year": 2007,
+                    "value": 2.5
+                },
+                {
+                    "year": 2013,
+                    "value": 2.5
+                },
+                {
+                    "year": 2016,
+                    "value": 2.5
+                },
+                {
+                    "year": 2015,
+                    "value": 2.5
+                },
+                {
+                    "year": 2014,
+                    "value": 2.5
+                },
+                {
+                    "year": 2019,
+                    "value": 2.5
+                },
+                {
+                    "year": 2018,
+                    "value": 2.5
+                },
+                {
+                    "year": 2017,
+                    "value": 2.5
+                },
+                {
+                    "year": 2022,
+                    "value": 2.5
+                },
+                {
+                    "year": 2021,
+                    "value": 2.5
+                },
+                {
+                    "year": 2020,
+                    "value": 2.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "RWA",
+            "Country or Area": "Rwanda",
+            "data": [
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2021,
+                    "value": 4.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2017,
+                    "value": 4.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5
+                },
+                {
+                    "year": 2016,
+                    "value": 4.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.5
+                },
+                {
+                    "year": 2007,
+                    "value": 4.5
+                },
+                {
+                    "year": 2008,
+                    "value": 4.5
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.5
+                },
+                {
+                    "year": 2010,
+                    "value": 4.5
+                },
+                {
+                    "year": 2009,
+                    "value": 4.5
+                },
+                {
+                    "year": 2011,
+                    "value": 4.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SDN",
+            "Country or Area": "Sudan",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 2.5
+                },
+                {
+                    "year": 2011,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 2.5
+                },
+                {
+                    "year": 2010,
+                    "value": 2.5
+                },
+                {
+                    "year": 2006,
+                    "value": 2.5
+                },
+                {
+                    "year": 2005,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 2.5
+                },
+                {
+                    "year": 2007,
+                    "value": 2.5
+                },
+                {
+                    "year": 2013,
+                    "value": 2.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SEN",
+            "Country or Area": "Senegal",
+            "data": [
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SLB",
+            "Country or Area": "Solomon islands",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SLE",
+            "Country or Area": "Sierra Leone",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SOM",
+            "Country or Area": "Somalia",
+            "data": [
+                {
+                    "year": 2020,
+                    "value": 2.5
+                },
+                {
+                    "year": 2019,
+                    "value": 2.5
+                },
+                {
+                    "year": 2017,
+                    "value": 2.0
+                },
+                {
+                    "year": 2022,
+                    "value": 2.5
+                },
+                {
+                    "year": 2021,
+                    "value": 2.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SRB",
+            "Country or Area": "Serbia",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SSD",
+            "Country or Area": "South Sudan",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 2.5
+                },
+                {
+                    "year": 2017,
+                    "value": 2.5
+                },
+                {
+                    "year": 2018,
+                    "value": 2.0
+                },
+                {
+                    "year": 2019,
+                    "value": 2.0
+                },
+                {
+                    "year": 2020,
+                    "value": 2.0
+                },
+                {
+                    "year": 2013,
+                    "value": 2.5
+                },
+                {
+                    "year": 2014,
+                    "value": 2.5
+                },
+                {
+                    "year": 2015,
+                    "value": 2.5
+                },
+                {
+                    "year": 2016,
+                    "value": 2.5
+                },
+                {
+                    "year": 2021,
+                    "value": 2.0
+                },
+                {
+                    "year": 2022,
+                    "value": 2.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "STP",
+            "Country or Area": "Sao Tome and Principe",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 2.5
+                },
+                {
+                    "year": 2006,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TCD",
+            "Country or Area": "Chad",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 2.5
+                },
+                {
+                    "year": 2006,
+                    "value": 2.5
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 2.5
+                },
+                {
+                    "year": 2011,
+                    "value": 2.5
+                },
+                {
+                    "year": 2012,
+                    "value": 2.5
+                },
+                {
+                    "year": 2017,
+                    "value": 2.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 2.5
+                },
+                {
+                    "year": 2014,
+                    "value": 2.5
+                },
+                {
+                    "year": 2015,
+                    "value": 2.5
+                },
+                {
+                    "year": 2016,
+                    "value": 2.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TGO",
+            "Country or Area": "Togo",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TJK",
+            "Country or Area": "Tajikistan",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TLS",
+            "Country or Area": "Timor-Leste",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 2.5
+                },
+                {
+                    "year": 2010,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 2.5
+                },
+                {
+                    "year": 2007,
+                    "value": 2.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TON",
+            "Country or Area": "Tonga",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TUV",
+            "Country or Area": "Tuvalu",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TZA",
+            "Country or Area": "Tanzania",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 3.5
+                },
+                {
+                    "year": 2011,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "UGA",
+            "Country or Area": "Uganda",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 3.5
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.5
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "UZB",
+            "Country or Area": "Uzbekistan",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "VCT",
+            "Country or Area": "Saint Vincent and the Grenadines",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 4.5
+                },
+                {
+                    "year": 2021,
+                    "value": 4.5
+                },
+                {
+                    "year": 2015,
+                    "value": 4.5
+                },
+                {
+                    "year": 2016,
+                    "value": 4.5
+                },
+                {
+                    "year": 2014,
+                    "value": 4.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.5
+                },
+                {
+                    "year": 2020,
+                    "value": 4.5
+                },
+                {
+                    "year": 2019,
+                    "value": 4.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.5
+                },
+                {
+                    "year": 2017,
+                    "value": 4.5
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "VNM",
+            "Country or Area": "Viet Nam",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "VUT",
+            "Country or Area": "Vanuatu",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 3.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2007,
+                    "value": 2.5
+                },
+                {
+                    "year": 2008,
+                    "value": 2.5
+                },
+                {
+                    "year": 2006,
+                    "value": 2.5
+                },
+                {
+                    "year": 2005,
+                    "value": 2.5
+                },
+                {
+                    "year": 2010,
+                    "value": 2.5
+                },
+                {
+                    "year": 2009,
+                    "value": 2.5
+                },
+                {
+                    "year": 2011,
+                    "value": 2.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "WSM",
+            "Country or Area": "Samoa",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 4.0
+                },
+                {
+                    "year": 2006,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "YEM",
+            "Country or Area": "Yemen",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 3.0
+                },
+                {
+                    "year": 2016,
+                    "value": 2.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3.0
+                },
+                {
+                    "year": 2017,
+                    "value": 2.0
+                },
+                {
+                    "year": 2018,
+                    "value": 2.0
+                },
+                {
+                    "year": 2019,
+                    "value": 2.0
+                },
+                {
+                    "year": 2020,
+                    "value": 2.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3.0
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2011,
+                    "value": 2.5
+                },
+                {
+                    "year": 2012,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 2.0
+                },
+                {
+                    "year": 2022,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ZMB",
+            "Country or Area": "Zambia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 3.5
+                },
+                {
+                    "year": 2021,
+                    "value": 3.5
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4.0
+                },
+                {
+                    "year": 2010,
+                    "value": 4.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3.5
+                },
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2008,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3.5
+                },
+                {
+                    "year": 2020,
+                    "value": 3.5
+                },
+                {
+                    "year": 2019,
+                    "value": 3.5
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ZWE",
+            "Country or Area": "Zimbabwe",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 3.5
+                },
+                {
+                    "year": 2016,
+                    "value": 3.5
+                },
+                {
+                    "year": 2014,
+                    "value": 3.5
+                },
+                {
+                    "year": 2013,
+                    "value": 2.5
+                },
+                {
+                    "year": 2017,
+                    "value": 4.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2019,
+                    "value": 4.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4.0
+                },
+                {
+                    "year": 2007,
+                    "value": 1.5
+                },
+                {
+                    "year": 2008,
+                    "value": 1.0
+                },
+                {
+                    "year": 2006,
+                    "value": 2.0
+                },
+                {
+                    "year": 2005,
+                    "value": 2.0
+                },
+                {
+                    "year": 2010,
+                    "value": 1.5
+                },
+                {
+                    "year": 2009,
+                    "value": 1.0
+                },
+                {
+                    "year": 2011,
+                    "value": 2.0
+                },
+                {
+                    "year": 2012,
+                    "value": 2.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "Alpha-3 code": "AIA",
+    "Country or Area": "Anguilla",
+    "Latitude (average)": null,
+    "Longitude (average)": null,
+    "Group 1": null,
+    "Group 2": null,
+    "LDC": null,
+    "LLDC": null,
+    "SIDS": null,
+    "Income group": null,
+    "UNDP_Region": null,
+    "indicators": [
+        {
+            "indicator": "Victims of intentional homicide (all categories, Female, all ages)",
+            "yearlyData": [
+                {
+                    "year": 1993,
+                    "value": 1.0
+                },
+                {
+                    "year": 1991,
+                    "value": 0.0
+                },
+                {
+                    "year": 2000,
+                    "value": 0.0
+                },
+                {
+                    "year": 2008,
+                    "value": 0.0
+                },
+                {
+                    "year": 2009,
+                    "value": 0.0
+                },
+                {
+                    "year": 2013,
+                    "value": 0.0
+                },
+                {
+                    "year": 1993,
+                    "value": 21.746221593998
+                },
+                {
+                    "year": 1991,
+                    "value": 0.0
+                },
+                {
+                    "year": 2000,
+                    "value": 0.0
+                },
+                {
+                    "year": 2008,
+                    "value": 0.0
+                },
+                {
+                    "year": 2009,
+                    "value": 0.0
+                },
+                {
+                    "year": 2013,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "Victims of intentional homicide (all categories, Male, all ages)",
+            "yearlyData": [
+                {
+                    "year": 1991,
+                    "value": 1.0
+                },
+                {
+                    "year": 2000,
+                    "value": 1.0
+                },
+                {
+                    "year": 2008,
+                    "value": 1.0
+                },
+                {
+                    "year": 2009,
+                    "value": 1.0
+                },
+                {
+                    "year": 2013,
+                    "value": 1.0
+                },
+                {
+                    "year": 1993,
+                    "value": 0.0
+                },
+                {
+                    "year": 1991,
+                    "value": 23.3699462491236
+                },
+                {
+                    "year": 2000,
+                    "value": 18.3688464364438
+                },
+                {
+                    "year": 2008,
+                    "value": 15.9833772876209
+                },
+                {
+                    "year": 2009,
+                    "value": 15.7207986165697
+                },
+                {
+                    "year": 2013,
+                    "value": 14.8577371666295
+                },
+                {
+                    "year": 1993,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "Victims of intentional homicide (all categories, all sexes, all ages)",
+            "yearlyData": [
+                {
+                    "year": 1990,
+                    "value": 0.0
+                },
+                {
+                    "year": 1991,
+                    "value": 1.0
+                },
+                {
+                    "year": 1992,
+                    "value": 0.0
+                },
+                {
+                    "year": 1993,
+                    "value": 1.0
+                },
+                {
+                    "year": 1994,
+                    "value": 0.0
+                },
+                {
+                    "year": 1995,
+                    "value": 1.0
+                },
+                {
+                    "year": 1996,
+                    "value": 0.0
+                },
+                {
+                    "year": 1997,
+                    "value": 1.0
+                },
+                {
+                    "year": 1998,
+                    "value": 0.0
+                },
+                {
+                    "year": 1999,
+                    "value": 0.0
+                },
+                {
+                    "year": 2000,
+                    "value": 1.0
+                },
+                {
+                    "year": 2001,
+                    "value": 0.0
+                },
+                {
+                    "year": 2002,
+                    "value": 2.0
+                },
+                {
+                    "year": 2003,
+                    "value": 2.0
+                },
+                {
+                    "year": 2004,
+                    "value": 1.0
+                },
+                {
+                    "year": 2005,
+                    "value": 0.0
+                },
+                {
+                    "year": 2006,
+                    "value": 5.0
+                },
+                {
+                    "year": 2007,
+                    "value": 4.0
+                },
+                {
+                    "year": 2008,
+                    "value": 1.0
+                },
+                {
+                    "year": 2009,
+                    "value": 1.0
+                },
+                {
+                    "year": 2010,
+                    "value": 0.0
+                },
+                {
+                    "year": 2011,
+                    "value": 0.0
+                },
+                {
+                    "year": 2012,
+                    "value": 5.0
+                },
+                {
+                    "year": 2013,
+                    "value": 1.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4.0
+                },
+                {
+                    "year": 2014,
+                    "value": 28.3276087957225
+                },
+                {
+                    "year": 2013,
+                    "value": 7.2992700729927
+                },
+                {
+                    "year": 2012,
+                    "value": 37.1609067261241
+                },
+                {
+                    "year": 2011,
+                    "value": 0.0
+                },
+                {
+                    "year": 2010,
+                    "value": 0.0
+                },
+                {
+                    "year": 2009,
+                    "value": 7.72439363509964
+                },
+                {
+                    "year": 2008,
+                    "value": 7.85515101527827
+                },
+                {
+                    "year": 2007,
+                    "value": 31.9374026907262
+                },
+                {
+                    "year": 2006,
+                    "value": 40.5679513184584
+                },
+                {
+                    "year": 2005,
+                    "value": 0.0
+                },
+                {
+                    "year": 2004,
+                    "value": 8.37942014412603
+                },
+                {
+                    "year": 2003,
+                    "value": 17.0299727520436
+                },
+                {
+                    "year": 2002,
+                    "value": 17.3002897798538
+                },
+                {
+                    "year": 2001,
+                    "value": 0.0
+                },
+                {
+                    "year": 2000,
+                    "value": 9.05182167911292
+                },
+                {
+                    "year": 1999,
+                    "value": 0.0
+                },
+                {
+                    "year": 1998,
+                    "value": 0.0
+                },
+                {
+                    "year": 1997,
+                    "value": 9.87020678083206
+                },
+                {
+                    "year": 1996,
+                    "value": 0.0
+                },
+                {
+                    "year": 1995,
+                    "value": 10.4161241602
+                },
+                {
+                    "year": 1994,
+                    "value": 0.0
+                },
+                {
+                    "year": 1993,
+                    "value": 10.9631091377515
+                },
+                {
+                    "year": 1992,
+                    "value": 0.0
+                },
+                {
+                    "year": 1991,
+                    "value": 11.6056403412058
+                },
+                {
+                    "year": 1990,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "Displacement due to disaster",
+            "yearlyData": [
+                {
+                    "year": 2017,
+                    "value": 500.0
+                }
+            ]
+        }
+    ]
+}

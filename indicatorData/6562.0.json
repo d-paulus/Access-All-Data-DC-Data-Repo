@@ -1,0 +1,911 @@
+{
+    "indicator": "IDPs, Male, displaced by Conflict, aged 5-14 years",
+    "countryData": [
+        {
+            "Alpha-3 code": "AFG",
+            "Country or Area": "Afghanistan",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 601881.0
+                },
+                {
+                    "year": 2022,
+                    "value": 607045.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ARM",
+            "Country or Area": "Armenia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 627.0
+                },
+                {
+                    "year": 2021,
+                    "value": 58.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "AZE",
+            "Country or Area": "Azerbaijan",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 59868.0
+                },
+                {
+                    "year": 2022,
+                    "value": 59280.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BDI",
+            "Country or Area": "Burundi",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 1261.0
+                },
+                {
+                    "year": 2021,
+                    "value": 2867.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BEN",
+            "Country or Area": "Benin",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 358.0
+                },
+                {
+                    "year": 2022,
+                    "value": 163.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BFA",
+            "Country or Area": "Burkina Faso",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 224133.0
+                },
+                {
+                    "year": 2022,
+                    "value": 264701.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BGD",
+            "Country or Area": "Bangladesh",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 37469.0
+                },
+                {
+                    "year": 2021,
+                    "value": 38649.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BIH",
+            "Country or Area": "Bosnia and Herzegovina",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 4787.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4785.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BRA",
+            "Country or Area": "Brazil",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 1466.0
+                },
+                {
+                    "year": 2022,
+                    "value": 389.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CAF",
+            "Country or Area": "CAR",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 77466.0
+                },
+                {
+                    "year": 2021,
+                    "value": 105140.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CIV",
+            "Country or Area": "C\u00f4te d'Ivoire",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 40218.0
+                },
+                {
+                    "year": 2022,
+                    "value": 39777.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CMR",
+            "Country or Area": "Cameroon",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 131067.0
+                },
+                {
+                    "year": 2021,
+                    "value": 120841.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "COD",
+            "Country or Area": "DRC",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 749366.0
+                },
+                {
+                    "year": 2022,
+                    "value": 801703.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "COG",
+            "Country or Area": "Congo",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 3615.0
+                },
+                {
+                    "year": 2021,
+                    "value": 18217.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "COL",
+            "Country or Area": "Colombia",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 386398.0
+                },
+                {
+                    "year": 2022,
+                    "value": 346206.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CYP",
+            "Country or Area": "Cyprus",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 13499.0
+                },
+                {
+                    "year": 2021,
+                    "value": 13234.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "EGY",
+            "Country or Area": "Egypt",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ETH",
+            "Country or Area": "Ethiopia",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 459785.0
+                },
+                {
+                    "year": 2022,
+                    "value": 485679.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GEO",
+            "Country or Area": "Georgia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 23237.0
+                },
+                {
+                    "year": 2021,
+                    "value": 22308.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GMB",
+            "Country or Area": "Gambia",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                },
+                {
+                    "year": 2022,
+                    "value": 783.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GTM",
+            "Country or Area": "Guatemala",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 26657.0
+                },
+                {
+                    "year": 2021,
+                    "value": 26998.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "HND",
+            "Country or Area": "Honduras",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 25680.0
+                },
+                {
+                    "year": 2022,
+                    "value": 25029.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "HTI",
+            "Country or Area": "Haiti",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 18023.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1772.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IDN",
+            "Country or Area": "Indonesia",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 6455.0
+                },
+                {
+                    "year": 2022,
+                    "value": 6293.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IND",
+            "Country or Area": "India",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 56518.0
+                },
+                {
+                    "year": 2021,
+                    "value": 46311.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IRQ",
+            "Country or Area": "Iraq",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 152301.0
+                },
+                {
+                    "year": 2022,
+                    "value": 148042.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KAZ",
+            "Country or Area": "Kazakhstan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 11.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KEN",
+            "Country or Area": "Kenya",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 3742.0
+                },
+                {
+                    "year": 2021,
+                    "value": 24133.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KGZ",
+            "Country or Area": "Kyrgyzstan",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                },
+                {
+                    "year": 2022,
+                    "value": 459.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LBN",
+            "Country or Area": "Lebanon",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 5.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LBY",
+            "Country or Area": "Libya",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 16274.0
+                },
+                {
+                    "year": 2022,
+                    "value": 13305.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LKA",
+            "Country or Area": "Sri Lanka",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 970.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1005.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MDG",
+            "Country or Area": "Madagascar",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 355.0
+                },
+                {
+                    "year": 2022,
+                    "value": 351.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MEX",
+            "Country or Area": "Mexico",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 32842.0
+                },
+                {
+                    "year": 2021,
+                    "value": 32991.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MKD",
+            "Country or Area": "Macedonia",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 6.0
+                },
+                {
+                    "year": 2022,
+                    "value": 6.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MLI",
+            "Country or Area": "Mali",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 55692.0
+                },
+                {
+                    "year": 2021,
+                    "value": 48010.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MMR",
+            "Country or Area": "Myanmar",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 55003.0
+                },
+                {
+                    "year": 2022,
+                    "value": 125355.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MOZ",
+            "Country or Area": "Mozambique",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 140452.0
+                },
+                {
+                    "year": 2021,
+                    "value": 100558.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MYT",
+            "Country or Area": "Mayotte",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 1.0
+                },
+                {
+                    "year": 2022,
+                    "value": 1.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NCL",
+            "Country or Area": "New Caledonia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 12.0
+                },
+                {
+                    "year": 2021,
+                    "value": 12.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NER",
+            "Country or Area": "Niger",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 33259.0
+                },
+                {
+                    "year": 2022,
+                    "value": 55180.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NGA",
+            "Country or Area": "Nigeria",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 495756.0
+                },
+                {
+                    "year": 2021,
+                    "value": 441904.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NIC",
+            "Country or Area": "Nicaragua",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 8.0
+                },
+                {
+                    "year": 2022,
+                    "value": 8.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PAK",
+            "Country or Area": "Pakistan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 2576.0
+                },
+                {
+                    "year": 2021,
+                    "value": 12812.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PER",
+            "Country or Area": "Peru",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 5378.0
+                },
+                {
+                    "year": 2022,
+                    "value": 6381.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PHL",
+            "Country or Area": "Philippines",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 10440.0
+                },
+                {
+                    "year": 2021,
+                    "value": 11326.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PNG",
+            "Country or Area": "Papua New Guinea",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 2774.0
+                },
+                {
+                    "year": 2022,
+                    "value": 10452.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PSE",
+            "Country or Area": "Palestine",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 1509.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1501.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "RUS",
+            "Country or Area": "Russian Federation",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 30.0
+                },
+                {
+                    "year": 2022,
+                    "value": 484.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SDN",
+            "Country or Area": "Sudan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 459811.0
+                },
+                {
+                    "year": 2021,
+                    "value": 410910.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SEN",
+            "Country or Area": "Senegal",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 1128.0
+                },
+                {
+                    "year": 2022,
+                    "value": 1118.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SLB",
+            "Country or Area": "Solomon islands",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 130.0
+                },
+                {
+                    "year": 2021,
+                    "value": 130.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SLE",
+            "Country or Area": "Sierra Leone",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 702.0
+                },
+                {
+                    "year": 2022,
+                    "value": 378.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SLV",
+            "Country or Area": "El Salvador",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 4648.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SOM",
+            "Country or Area": "Somalia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 558963.0
+                },
+                {
+                    "year": 2021,
+                    "value": 428536.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SRB",
+            "Country or Area": "Serbia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 9820.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SSD",
+            "Country or Area": "South Sudan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 226415.0
+                },
+                {
+                    "year": 2021,
+                    "value": 214136.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SYR",
+            "Country or Area": "Syria",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 824247.0
+                },
+                {
+                    "year": 2022,
+                    "value": 753487.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TCD",
+            "Country or Area": "Chad",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 43876.0
+                },
+                {
+                    "year": 2021,
+                    "value": 58186.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TGO",
+            "Country or Area": "Togo",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 293.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "THA",
+            "Country or Area": "Thailand",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 2344.0
+                },
+                {
+                    "year": 2022,
+                    "value": 2289.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TJK",
+            "Country or Area": "Tajikistan",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TUR",
+            "Country or Area": "Turkey",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 88455.0
+                },
+                {
+                    "year": 2022,
+                    "value": 88578.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "UGA",
+            "Country or Area": "Uganda",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 243.0
+                },
+                {
+                    "year": 2022,
+                    "value": 678.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "UKR",
+            "Country or Area": "Ukraine",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 357316.0
+                },
+                {
+                    "year": 2021,
+                    "value": 48806.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "YEM",
+            "Country or Area": "Yemen",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 561372.0
+                },
+                {
+                    "year": 2022,
+                    "value": 586516.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ZAF",
+            "Country or Area": "South Africa",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                }
+            ]
+        }
+    ]
+}

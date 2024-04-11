@@ -1,0 +1,183 @@
+{
+    "Alpha-3 code": "REU",
+    "Country or Area": "R\u00e9union",
+    "Latitude (average)": null,
+    "Longitude (average)": null,
+    "Group 1": null,
+    "Group 2": null,
+    "LDC": null,
+    "LLDC": null,
+    "SIDS": null,
+    "Income group": null,
+    "UNDP_Region": null,
+    "indicators": [
+        {
+            "indicator": "Victims of intentional homicide (all categories, Female, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2004,
+                    "value": 10.35
+                },
+                {
+                    "year": 2005,
+                    "value": 7.35294117647059
+                },
+                {
+                    "year": 2006,
+                    "value": 8.14285714285714
+                },
+                {
+                    "year": 2007,
+                    "value": 8.0
+                },
+                {
+                    "year": 2008,
+                    "value": 4.5
+                },
+                {
+                    "year": 2009,
+                    "value": 5.83333333333333
+                },
+                {
+                    "year": 2004,
+                    "value": 2.4306615626688
+                },
+                {
+                    "year": 2005,
+                    "value": 1.70778010650673
+                },
+                {
+                    "year": 2006,
+                    "value": 1.86516371556319
+                },
+                {
+                    "year": 2007,
+                    "value": 1.80000787503445
+                },
+                {
+                    "year": 2008,
+                    "value": 0.996706438945086
+                },
+                {
+                    "year": 2009,
+                    "value": 1.27844774527477
+                }
+            ]
+        },
+        {
+            "indicator": "Victims of intentional homicide (all categories, Male, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2004,
+                    "value": 12.65
+                },
+                {
+                    "year": 2005,
+                    "value": 17.6470588235294
+                },
+                {
+                    "year": 2006,
+                    "value": 10.8571428571429
+                },
+                {
+                    "year": 2007,
+                    "value": 16.0
+                },
+                {
+                    "year": 2008,
+                    "value": 13.5
+                },
+                {
+                    "year": 2009,
+                    "value": 9.16666666666667
+                },
+                {
+                    "year": 2004,
+                    "value": 3.17273603964791
+                },
+                {
+                    "year": 2005,
+                    "value": 4.37783104301022
+                },
+                {
+                    "year": 2006,
+                    "value": 2.65592508054705
+                },
+                {
+                    "year": 2007,
+                    "value": 3.84472593712191
+                },
+                {
+                    "year": 2008,
+                    "value": 3.19533055694612
+                },
+                {
+                    "year": 2009,
+                    "value": 2.14762291334029
+                }
+            ]
+        },
+        {
+            "indicator": "Victims of intentional homicide (all categories, all sexes, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2004,
+                    "value": 23.0
+                },
+                {
+                    "year": 2005,
+                    "value": 25.0
+                },
+                {
+                    "year": 2006,
+                    "value": 19.0
+                },
+                {
+                    "year": 2007,
+                    "value": 24.0
+                },
+                {
+                    "year": 2008,
+                    "value": 18.0
+                },
+                {
+                    "year": 2009,
+                    "value": 15.0
+                },
+                {
+                    "year": 2004,
+                    "value": 2.78950346231957
+                },
+                {
+                    "year": 2005,
+                    "value": 2.99883884959744
+                },
+                {
+                    "year": 2006,
+                    "value": 2.24754854556993
+                },
+                {
+                    "year": 2007,
+                    "value": 2.78876175492129
+                },
+                {
+                    "year": 2008,
+                    "value": 2.05954723142503
+                },
+                {
+                    "year": 2009,
+                    "value": 1.69854072704337
+                }
+            ]
+        },
+        {
+            "indicator": "Displacement due to disaster",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 14.0
+                }
+            ]
+        }
+    ]
+}

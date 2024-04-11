@@ -1,0 +1,151 @@
+{
+    "Alpha-3 code": "MTQ",
+    "Country or Area": "Martinique",
+    "Latitude (average)": null,
+    "Longitude (average)": null,
+    "Group 1": null,
+    "Group 2": null,
+    "LDC": null,
+    "LLDC": null,
+    "SIDS": null,
+    "Income group": null,
+    "UNDP_Region": null,
+    "indicators": [
+        {
+            "indicator": "Victims of intentional homicide (all categories, Female, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2006,
+                    "value": 5.0
+                },
+                {
+                    "year": 2007,
+                    "value": 5.47619047619048
+                },
+                {
+                    "year": 2008,
+                    "value": 4.25
+                },
+                {
+                    "year": 2009,
+                    "value": 3.0
+                },
+                {
+                    "year": 2006,
+                    "value": 2.370881778351
+                },
+                {
+                    "year": 2007,
+                    "value": 2.58775935818168
+                },
+                {
+                    "year": 2008,
+                    "value": 2.00510476082639
+                },
+                {
+                    "year": 2009,
+                    "value": 1.41707958791326
+                }
+            ]
+        },
+        {
+            "indicator": "Victims of intentional homicide (all categories, Male, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2006,
+                    "value": 18.0
+                },
+                {
+                    "year": 2007,
+                    "value": 17.5238095238095
+                },
+                {
+                    "year": 2008,
+                    "value": 12.75
+                },
+                {
+                    "year": 2009,
+                    "value": 8.0
+                },
+                {
+                    "year": 2006,
+                    "value": 9.74769710655858
+                },
+                {
+                    "year": 2007,
+                    "value": 9.51341714964061
+                },
+                {
+                    "year": 2008,
+                    "value": 6.94766095414544
+                },
+                {
+                    "year": 2009,
+                    "value": 4.3832974450855
+                }
+            ]
+        },
+        {
+            "indicator": "Victims of intentional homicide (all categories, all sexes, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2004,
+                    "value": 19.0
+                },
+                {
+                    "year": 2005,
+                    "value": 19.0
+                },
+                {
+                    "year": 2006,
+                    "value": 23.0
+                },
+                {
+                    "year": 2007,
+                    "value": 23.0
+                },
+                {
+                    "year": 2008,
+                    "value": 17.0
+                },
+                {
+                    "year": 2009,
+                    "value": 11.0
+                },
+                {
+                    "year": 2004,
+                    "value": 4.63262096626721
+                },
+                {
+                    "year": 2005,
+                    "value": 4.74561031046282
+                },
+                {
+                    "year": 2006,
+                    "value": 5.8146737083208
+                },
+                {
+                    "year": 2007,
+                    "value": 5.81072204537416
+                },
+                {
+                    "year": 2008,
+                    "value": 4.29863910143271
+                },
+                {
+                    "year": 2009,
+                    "value": 2.79036259493575
+                }
+            ]
+        },
+        {
+            "indicator": "Displacement due to disaster",
+            "yearlyData": [
+                {
+                    "year": 2019,
+                    "value": 2.0
+                }
+            ]
+        }
+    ]
+}

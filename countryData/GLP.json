@@ -1,0 +1,215 @@
+{
+    "Alpha-3 code": "GLP",
+    "Country or Area": "Guadeloupe",
+    "Latitude (average)": null,
+    "Longitude (average)": null,
+    "Group 1": null,
+    "Group 2": null,
+    "LDC": null,
+    "LLDC": null,
+    "SIDS": null,
+    "Income group": null,
+    "UNDP_Region": null,
+    "indicators": [
+        {
+            "indicator": "Victims of intentional homicide (all categories, Female, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2009,
+                    "value": 5.4
+                },
+                {
+                    "year": 2008,
+                    "value": 8.0
+                },
+                {
+                    "year": 2006,
+                    "value": 6.54545454545455
+                },
+                {
+                    "year": 2005,
+                    "value": 1.53333333333333
+                },
+                {
+                    "year": 2004,
+                    "value": 9.45454545454546
+                },
+                {
+                    "year": 2009,
+                    "value": 2.51600458471947
+                },
+                {
+                    "year": 2008,
+                    "value": 3.7422873796036
+                },
+                {
+                    "year": 2006,
+                    "value": 3.08432876117293
+                },
+                {
+                    "year": 2004,
+                    "value": 4.3946116145782
+                },
+                {
+                    "year": 2005,
+                    "value": 0.720263679138187
+                }
+            ]
+        },
+        {
+            "indicator": "Victims of intentional homicide (all categories, Male, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2004,
+                    "value": 16.5454545454545
+                },
+                {
+                    "year": 2005,
+                    "value": 21.4666666666667
+                },
+                {
+                    "year": 2006,
+                    "value": 17.4545454545455
+                },
+                {
+                    "year": 2008,
+                    "value": 24.0
+                },
+                {
+                    "year": 2009,
+                    "value": 30.6
+                },
+                {
+                    "year": 2009,
+                    "value": 16.2721814826829
+                },
+                {
+                    "year": 2008,
+                    "value": 12.7441297352407
+                },
+                {
+                    "year": 2006,
+                    "value": 9.24942594545876
+                },
+                {
+                    "year": 2005,
+                    "value": 11.2775601944153
+                },
+                {
+                    "year": 2004,
+                    "value": 8.5512411985645
+                }
+            ]
+        },
+        {
+            "indicator": "Victims of intentional homicide (all categories, all sexes, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2016,
+                    "value": 23.0
+                },
+                {
+                    "year": 2015,
+                    "value": 39.0
+                },
+                {
+                    "year": 2014,
+                    "value": 21.0
+                },
+                {
+                    "year": 2013,
+                    "value": 35.0
+                },
+                {
+                    "year": 2012,
+                    "value": 31.0
+                },
+                {
+                    "year": 2011,
+                    "value": 27.0
+                },
+                {
+                    "year": 2009,
+                    "value": 36.0
+                },
+                {
+                    "year": 2008,
+                    "value": 32.0
+                },
+                {
+                    "year": 2007,
+                    "value": 29.0
+                },
+                {
+                    "year": 2006,
+                    "value": 24.0
+                },
+                {
+                    "year": 2005,
+                    "value": 23.0
+                },
+                {
+                    "year": 2004,
+                    "value": 26.0
+                },
+                {
+                    "year": 2004,
+                    "value": 6.3627942945313
+                },
+                {
+                    "year": 2005,
+                    "value": 5.70389116975648
+                },
+                {
+                    "year": 2006,
+                    "value": 5.98614208108229
+                },
+                {
+                    "year": 2007,
+                    "value": 7.22086381450846
+                },
+                {
+                    "year": 2008,
+                    "value": 7.95831830786257
+                },
+                {
+                    "year": 2009,
+                    "value": 8.94016792615421
+                },
+                {
+                    "year": 2011,
+                    "value": 6.6973753730066
+                },
+                {
+                    "year": 2012,
+                    "value": 7.69261310622754
+                },
+                {
+                    "year": 2013,
+                    "value": 8.69895885889543
+                },
+                {
+                    "year": 2014,
+                    "value": 5.23890661524222
+                },
+                {
+                    "year": 2015,
+                    "value": 9.7722685569742
+                },
+                {
+                    "year": 2016,
+                    "value": 5.78101514625968
+                }
+            ]
+        },
+        {
+            "indicator": "Displacement due to disaster",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 140.0
+                }
+            ]
+        }
+    ]
+}

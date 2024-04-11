@@ -1,0 +1,6003 @@
+{
+    "indicator": "Coal final consumption by sector (Commercial and public services)",
+    "countryData": [
+        {
+            "Alpha-3 code": "ALB",
+            "Country or Area": "Albania",
+            "data": [
+                {
+                    "year": 2002,
+                    "value": 78.0
+                },
+                {
+                    "year": 2003,
+                    "value": 88.0
+                },
+                {
+                    "year": 2004,
+                    "value": 206.0
+                },
+                {
+                    "year": 2005,
+                    "value": 118.0
+                },
+                {
+                    "year": 2006,
+                    "value": 118.0
+                },
+                {
+                    "year": 2007,
+                    "value": 187.0
+                },
+                {
+                    "year": 2008,
+                    "value": 324.0
+                },
+                {
+                    "year": 2009,
+                    "value": 98.0
+                },
+                {
+                    "year": 2010,
+                    "value": 98.0
+                },
+                {
+                    "year": 2011,
+                    "value": 49.0
+                },
+                {
+                    "year": 2012,
+                    "value": 39.0
+                },
+                {
+                    "year": 2013,
+                    "value": 155.0
+                },
+                {
+                    "year": 2014,
+                    "value": 136.0
+                },
+                {
+                    "year": 2015,
+                    "value": 123.0
+                },
+                {
+                    "year": 2016,
+                    "value": 148.0
+                },
+                {
+                    "year": 2017,
+                    "value": 136.0
+                },
+                {
+                    "year": 2018,
+                    "value": 136.0
+                },
+                {
+                    "year": 2019,
+                    "value": 176.0
+                },
+                {
+                    "year": 2020,
+                    "value": 136.0
+                },
+                {
+                    "year": 2021,
+                    "value": 136.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ARM",
+            "Country or Area": "Armenia",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 54.0
+                },
+                {
+                    "year": 2020,
+                    "value": 16.0
+                },
+                {
+                    "year": 2019,
+                    "value": 76.0
+                },
+                {
+                    "year": 2018,
+                    "value": 16.0
+                },
+                {
+                    "year": 2017,
+                    "value": 11.0
+                },
+                {
+                    "year": 2016,
+                    "value": 18.0
+                },
+                {
+                    "year": 2015,
+                    "value": 26.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "AUS",
+            "Country or Area": "Australia",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 289.0
+                },
+                {
+                    "year": 2016,
+                    "value": 324.0
+                },
+                {
+                    "year": 2017,
+                    "value": 512.0
+                },
+                {
+                    "year": 2018,
+                    "value": 509.0
+                },
+                {
+                    "year": 2014,
+                    "value": 278.0
+                },
+                {
+                    "year": 2013,
+                    "value": 148.0
+                },
+                {
+                    "year": 2012,
+                    "value": 306.0
+                },
+                {
+                    "year": 2011,
+                    "value": 504.0
+                },
+                {
+                    "year": 2010,
+                    "value": 652.0
+                },
+                {
+                    "year": 2009,
+                    "value": 1559.0
+                },
+                {
+                    "year": 2008,
+                    "value": 1870.0
+                },
+                {
+                    "year": 2007,
+                    "value": 2158.0
+                },
+                {
+                    "year": 2006,
+                    "value": 2467.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3174.0
+                },
+                {
+                    "year": 2004,
+                    "value": 2818.0
+                },
+                {
+                    "year": 2003,
+                    "value": 3916.0
+                },
+                {
+                    "year": 2002,
+                    "value": 3065.0
+                },
+                {
+                    "year": 2001,
+                    "value": 3038.0
+                },
+                {
+                    "year": 1997,
+                    "value": 3110.0
+                },
+                {
+                    "year": 1998,
+                    "value": 2418.0
+                },
+                {
+                    "year": 1999,
+                    "value": 2046.0
+                },
+                {
+                    "year": 2000,
+                    "value": 2071.0
+                },
+                {
+                    "year": 1990,
+                    "value": 6158.0
+                },
+                {
+                    "year": 1991,
+                    "value": 5636.0
+                },
+                {
+                    "year": 1992,
+                    "value": 4903.0
+                },
+                {
+                    "year": 1993,
+                    "value": 4518.0
+                },
+                {
+                    "year": 1994,
+                    "value": 4285.0
+                },
+                {
+                    "year": 1995,
+                    "value": 3975.0
+                },
+                {
+                    "year": 1996,
+                    "value": 3414.0
+                },
+                {
+                    "year": 2019,
+                    "value": 578.0
+                },
+                {
+                    "year": 2020,
+                    "value": 794.0
+                },
+                {
+                    "year": 2021,
+                    "value": 213.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "AUT",
+            "Country or Area": "Austria",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 1996,
+                    "value": 707.0
+                },
+                {
+                    "year": 1995,
+                    "value": 726.0
+                },
+                {
+                    "year": 1994,
+                    "value": 838.0
+                },
+                {
+                    "year": 1993,
+                    "value": 891.0
+                },
+                {
+                    "year": 1992,
+                    "value": 926.0
+                },
+                {
+                    "year": 1991,
+                    "value": 1441.0
+                },
+                {
+                    "year": 1990,
+                    "value": 1075.0
+                },
+                {
+                    "year": 2000,
+                    "value": 1141.0
+                },
+                {
+                    "year": 1999,
+                    "value": 941.0
+                },
+                {
+                    "year": 1998,
+                    "value": 722.0
+                },
+                {
+                    "year": 1997,
+                    "value": 923.0
+                },
+                {
+                    "year": 2001,
+                    "value": 1217.0
+                },
+                {
+                    "year": 2002,
+                    "value": 848.0
+                },
+                {
+                    "year": 2003,
+                    "value": 1183.0
+                },
+                {
+                    "year": 2004,
+                    "value": 851.0
+                },
+                {
+                    "year": 2005,
+                    "value": 709.0
+                },
+                {
+                    "year": 2006,
+                    "value": 515.0
+                },
+                {
+                    "year": 2007,
+                    "value": 408.0
+                },
+                {
+                    "year": 2008,
+                    "value": 250.0
+                },
+                {
+                    "year": 2009,
+                    "value": 189.0
+                },
+                {
+                    "year": 2010,
+                    "value": 212.0
+                },
+                {
+                    "year": 2011,
+                    "value": 147.0
+                },
+                {
+                    "year": 2012,
+                    "value": 2.0
+                },
+                {
+                    "year": 2013,
+                    "value": 7.0
+                },
+                {
+                    "year": 2014,
+                    "value": 0.0
+                },
+                {
+                    "year": 2015,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BEL",
+            "Country or Area": "Belgium",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BGR",
+            "Country or Area": "Bulgaria",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 105.0
+                },
+                {
+                    "year": 2019,
+                    "value": 160.0
+                },
+                {
+                    "year": 2020,
+                    "value": 137.0
+                },
+                {
+                    "year": 2016,
+                    "value": 249.0
+                },
+                {
+                    "year": 2017,
+                    "value": 163.0
+                },
+                {
+                    "year": 2018,
+                    "value": 106.0
+                },
+                {
+                    "year": 2014,
+                    "value": 88.0
+                },
+                {
+                    "year": 2015,
+                    "value": 232.0
+                },
+                {
+                    "year": 2013,
+                    "value": 200.0
+                },
+                {
+                    "year": 2012,
+                    "value": 150.0
+                },
+                {
+                    "year": 2010,
+                    "value": 179.0
+                },
+                {
+                    "year": 2011,
+                    "value": 200.0
+                },
+                {
+                    "year": 2009,
+                    "value": 191.0
+                },
+                {
+                    "year": 2008,
+                    "value": 230.0
+                },
+                {
+                    "year": 2007,
+                    "value": 121.0
+                },
+                {
+                    "year": 2006,
+                    "value": 258.0
+                },
+                {
+                    "year": 2005,
+                    "value": 251.0
+                },
+                {
+                    "year": 2004,
+                    "value": 190.0
+                },
+                {
+                    "year": 2003,
+                    "value": 268.0
+                },
+                {
+                    "year": 2002,
+                    "value": 211.0
+                },
+                {
+                    "year": 2001,
+                    "value": 129.0
+                },
+                {
+                    "year": 1997,
+                    "value": 694.0
+                },
+                {
+                    "year": 1998,
+                    "value": 262.0
+                },
+                {
+                    "year": 1999,
+                    "value": 724.0
+                },
+                {
+                    "year": 2000,
+                    "value": 117.0
+                },
+                {
+                    "year": 1991,
+                    "value": 711.0
+                },
+                {
+                    "year": 1990,
+                    "value": 882.0
+                },
+                {
+                    "year": 1992,
+                    "value": 865.0
+                },
+                {
+                    "year": 1993,
+                    "value": 1004.0
+                },
+                {
+                    "year": 1994,
+                    "value": 618.0
+                },
+                {
+                    "year": 1995,
+                    "value": 733.0
+                },
+                {
+                    "year": 1996,
+                    "value": 971.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BIH",
+            "Country or Area": "Bosnia and Herzegovina",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 4659.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3975.0
+                },
+                {
+                    "year": 2018,
+                    "value": 2068.0
+                },
+                {
+                    "year": 2017,
+                    "value": 1889.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4569.0
+                },
+                {
+                    "year": 2020,
+                    "value": 1460.0
+                },
+                {
+                    "year": 2019,
+                    "value": 1753.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1558.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BLR",
+            "Country or Area": "Belarus",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 1042.0
+                },
+                {
+                    "year": 2020,
+                    "value": 906.0
+                },
+                {
+                    "year": 2019,
+                    "value": 1057.0
+                },
+                {
+                    "year": 2018,
+                    "value": 1275.0
+                },
+                {
+                    "year": 2016,
+                    "value": 1304.0
+                },
+                {
+                    "year": 2017,
+                    "value": 1262.0
+                },
+                {
+                    "year": 2013,
+                    "value": 1894.0
+                },
+                {
+                    "year": 2015,
+                    "value": 1368.0
+                },
+                {
+                    "year": 2014,
+                    "value": 1696.0
+                },
+                {
+                    "year": 2012,
+                    "value": 2150.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3044.0
+                },
+                {
+                    "year": 2006,
+                    "value": 2936.0
+                },
+                {
+                    "year": 2007,
+                    "value": 2515.0
+                },
+                {
+                    "year": 2008,
+                    "value": 2367.0
+                },
+                {
+                    "year": 2009,
+                    "value": 2445.0
+                },
+                {
+                    "year": 2010,
+                    "value": 2357.0
+                },
+                {
+                    "year": 2011,
+                    "value": 2148.0
+                },
+                {
+                    "year": 1995,
+                    "value": 19592.0
+                },
+                {
+                    "year": 1996,
+                    "value": 20594.0
+                },
+                {
+                    "year": 1994,
+                    "value": 19630.0
+                },
+                {
+                    "year": 1993,
+                    "value": 24624.0
+                },
+                {
+                    "year": 1992,
+                    "value": 21321.0
+                },
+                {
+                    "year": 1990,
+                    "value": 23348.0
+                },
+                {
+                    "year": 1991,
+                    "value": 22554.0
+                },
+                {
+                    "year": 2000,
+                    "value": 5669.0
+                },
+                {
+                    "year": 1999,
+                    "value": 4295.0
+                },
+                {
+                    "year": 1998,
+                    "value": 6165.0
+                },
+                {
+                    "year": 1997,
+                    "value": 6096.0
+                },
+                {
+                    "year": 2001,
+                    "value": 4551.0
+                },
+                {
+                    "year": 2002,
+                    "value": 3937.0
+                },
+                {
+                    "year": 2003,
+                    "value": 3691.0
+                },
+                {
+                    "year": 2004,
+                    "value": 2926.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BWA",
+            "Country or Area": "Botswana",
+            "data": [
+                {
+                    "year": 2004,
+                    "value": 188.0
+                },
+                {
+                    "year": 2003,
+                    "value": 283.0
+                },
+                {
+                    "year": 2002,
+                    "value": 967.0
+                },
+                {
+                    "year": 2001,
+                    "value": 920.0
+                },
+                {
+                    "year": 1997,
+                    "value": 117.0
+                },
+                {
+                    "year": 1998,
+                    "value": 2052.0
+                },
+                {
+                    "year": 2000,
+                    "value": 1061.0
+                },
+                {
+                    "year": 1990,
+                    "value": 47.0
+                },
+                {
+                    "year": 1992,
+                    "value": 47.0
+                },
+                {
+                    "year": 1993,
+                    "value": 117.0
+                },
+                {
+                    "year": 1994,
+                    "value": 212.0
+                },
+                {
+                    "year": 1996,
+                    "value": 165.0
+                },
+                {
+                    "year": 1995,
+                    "value": 165.0
+                },
+                {
+                    "year": 2011,
+                    "value": 47.0
+                },
+                {
+                    "year": 2010,
+                    "value": 47.0
+                },
+                {
+                    "year": 2009,
+                    "value": 47.0
+                },
+                {
+                    "year": 2008,
+                    "value": 47.0
+                },
+                {
+                    "year": 2007,
+                    "value": 188.0
+                },
+                {
+                    "year": 2012,
+                    "value": 47.0
+                },
+                {
+                    "year": 2015,
+                    "value": 47.0
+                },
+                {
+                    "year": 2013,
+                    "value": 47.0
+                },
+                {
+                    "year": 2014,
+                    "value": 47.0
+                },
+                {
+                    "year": 2017,
+                    "value": 48.0
+                },
+                {
+                    "year": 2016,
+                    "value": 47.0
+                },
+                {
+                    "year": 2018,
+                    "value": 49.0
+                },
+                {
+                    "year": 2019,
+                    "value": 50.0
+                },
+                {
+                    "year": 2020,
+                    "value": 51.0
+                },
+                {
+                    "year": 2021,
+                    "value": 51.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CAN",
+            "Country or Area": "Canada",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 1995,
+                    "value": 28.0
+                },
+                {
+                    "year": 1994,
+                    "value": 169.0
+                },
+                {
+                    "year": 1990,
+                    "value": 196.0
+                },
+                {
+                    "year": 1991,
+                    "value": 140.0
+                },
+                {
+                    "year": 2000,
+                    "value": 53.0
+                },
+                {
+                    "year": 2001,
+                    "value": 292.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CHE",
+            "Country or Area": "Switzerland",
+            "data": [
+                {
+                    "year": 1999,
+                    "value": 27.0
+                },
+                {
+                    "year": 1998,
+                    "value": 28.0
+                },
+                {
+                    "year": 1997,
+                    "value": 28.0
+                },
+                {
+                    "year": 1991,
+                    "value": 28.0
+                },
+                {
+                    "year": 1990,
+                    "value": 28.0
+                },
+                {
+                    "year": 1993,
+                    "value": 28.0
+                },
+                {
+                    "year": 1992,
+                    "value": 28.0
+                },
+                {
+                    "year": 1994,
+                    "value": 28.0
+                },
+                {
+                    "year": 1995,
+                    "value": 28.0
+                },
+                {
+                    "year": 1996,
+                    "value": 28.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CHL",
+            "Country or Area": "Chile",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 12.0
+                },
+                {
+                    "year": 1996,
+                    "value": 430.0
+                },
+                {
+                    "year": 1994,
+                    "value": 406.0
+                },
+                {
+                    "year": 1995,
+                    "value": 386.0
+                },
+                {
+                    "year": 1992,
+                    "value": 466.0
+                },
+                {
+                    "year": 1993,
+                    "value": 365.0
+                },
+                {
+                    "year": 1990,
+                    "value": 400.0
+                },
+                {
+                    "year": 1991,
+                    "value": 409.0
+                },
+                {
+                    "year": 1997,
+                    "value": 1261.0
+                },
+                {
+                    "year": 1998,
+                    "value": 964.0
+                },
+                {
+                    "year": 1999,
+                    "value": 807.0
+                },
+                {
+                    "year": 2000,
+                    "value": 734.0
+                },
+                {
+                    "year": 2001,
+                    "value": 645.0
+                },
+                {
+                    "year": 2002,
+                    "value": 764.0
+                },
+                {
+                    "year": 2003,
+                    "value": 555.0
+                },
+                {
+                    "year": 2004,
+                    "value": 732.0
+                },
+                {
+                    "year": 2016,
+                    "value": 102.0
+                },
+                {
+                    "year": 2015,
+                    "value": 322.0
+                },
+                {
+                    "year": 2017,
+                    "value": 0.0
+                },
+                {
+                    "year": 2018,
+                    "value": 19.0
+                },
+                {
+                    "year": 2014,
+                    "value": 378.0
+                },
+                {
+                    "year": 2012,
+                    "value": 397.0
+                },
+                {
+                    "year": 2013,
+                    "value": 162.0
+                },
+                {
+                    "year": 2006,
+                    "value": 696.0
+                },
+                {
+                    "year": 2008,
+                    "value": 669.0
+                },
+                {
+                    "year": 2007,
+                    "value": 764.0
+                },
+                {
+                    "year": 2005,
+                    "value": 609.0
+                },
+                {
+                    "year": 2009,
+                    "value": 568.0
+                },
+                {
+                    "year": 2010,
+                    "value": 366.0
+                },
+                {
+                    "year": 2011,
+                    "value": 365.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CHN",
+            "Country or Area": "China",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 778681.0
+                },
+                {
+                    "year": 2010,
+                    "value": 697216.0
+                },
+                {
+                    "year": 2009,
+                    "value": 699486.0
+                },
+                {
+                    "year": 2005,
+                    "value": 596737.0
+                },
+                {
+                    "year": 2006,
+                    "value": 633291.0
+                },
+                {
+                    "year": 2008,
+                    "value": 674113.0
+                },
+                {
+                    "year": 2007,
+                    "value": 670002.0
+                },
+                {
+                    "year": 2013,
+                    "value": 871324.0
+                },
+                {
+                    "year": 2012,
+                    "value": 817777.0
+                },
+                {
+                    "year": 2014,
+                    "value": 830076.0
+                },
+                {
+                    "year": 2015,
+                    "value": 845101.0
+                },
+                {
+                    "year": 2017,
+                    "value": 760408.0
+                },
+                {
+                    "year": 2016,
+                    "value": 835760.0
+                },
+                {
+                    "year": 2004,
+                    "value": 543248.0
+                },
+                {
+                    "year": 2003,
+                    "value": 481501.0
+                },
+                {
+                    "year": 2002,
+                    "value": 413117.0
+                },
+                {
+                    "year": 2001,
+                    "value": 374268.0
+                },
+                {
+                    "year": 2000,
+                    "value": 347486.0
+                },
+                {
+                    "year": 1999,
+                    "value": 455736.0
+                },
+                {
+                    "year": 1998,
+                    "value": 464944.0
+                },
+                {
+                    "year": 1997,
+                    "value": 423402.0
+                },
+                {
+                    "year": 1990,
+                    "value": 388501.0
+                },
+                {
+                    "year": 1992,
+                    "value": 380654.0
+                },
+                {
+                    "year": 1991,
+                    "value": 381422.0
+                },
+                {
+                    "year": 1995,
+                    "value": 371378.0
+                },
+                {
+                    "year": 1994,
+                    "value": 389578.0
+                },
+                {
+                    "year": 1993,
+                    "value": 406344.0
+                },
+                {
+                    "year": 1996,
+                    "value": 636798.0
+                },
+                {
+                    "year": 2021,
+                    "value": 327666.0
+                },
+                {
+                    "year": 2020,
+                    "value": 433278.0
+                },
+                {
+                    "year": 2019,
+                    "value": 524616.0
+                },
+                {
+                    "year": 2018,
+                    "value": 590374.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "COL",
+            "Country or Area": "Colombia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CRI",
+            "Country or Area": "Costa Rica",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CZE",
+            "Country or Area": "Czech Republic",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2018,
+                    "value": 943.0
+                },
+                {
+                    "year": 2020,
+                    "value": 863.0
+                },
+                {
+                    "year": 2019,
+                    "value": 1140.0
+                },
+                {
+                    "year": 2021,
+                    "value": 992.0
+                },
+                {
+                    "year": 1995,
+                    "value": 14916.0
+                },
+                {
+                    "year": 1996,
+                    "value": 6159.0
+                },
+                {
+                    "year": 1994,
+                    "value": 20642.0
+                },
+                {
+                    "year": 1993,
+                    "value": 24767.0
+                },
+                {
+                    "year": 1992,
+                    "value": 26558.0
+                },
+                {
+                    "year": 1990,
+                    "value": 61185.0
+                },
+                {
+                    "year": 1991,
+                    "value": 62832.0
+                },
+                {
+                    "year": 1997,
+                    "value": 5377.0
+                },
+                {
+                    "year": 1998,
+                    "value": 5858.0
+                },
+                {
+                    "year": 1999,
+                    "value": 7636.0
+                },
+                {
+                    "year": 2000,
+                    "value": 10088.0
+                },
+                {
+                    "year": 2001,
+                    "value": 9308.0
+                },
+                {
+                    "year": 2002,
+                    "value": 8901.0
+                },
+                {
+                    "year": 2003,
+                    "value": 17987.0
+                },
+                {
+                    "year": 2004,
+                    "value": 19998.0
+                },
+                {
+                    "year": 2016,
+                    "value": 1381.0
+                },
+                {
+                    "year": 2015,
+                    "value": 1044.0
+                },
+                {
+                    "year": 2017,
+                    "value": 1345.0
+                },
+                {
+                    "year": 2014,
+                    "value": 1180.0
+                },
+                {
+                    "year": 2012,
+                    "value": 1350.0
+                },
+                {
+                    "year": 2013,
+                    "value": 1336.0
+                },
+                {
+                    "year": 2007,
+                    "value": 2253.0
+                },
+                {
+                    "year": 2006,
+                    "value": 6863.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3185.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3309.0
+                },
+                {
+                    "year": 2009,
+                    "value": 1023.0
+                },
+                {
+                    "year": 2010,
+                    "value": 1651.0
+                },
+                {
+                    "year": 2011,
+                    "value": 1432.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "DEU",
+            "Country or Area": "Germany",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 4046.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3964.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4795.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3873.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3229.0
+                },
+                {
+                    "year": 2004,
+                    "value": 3611.0
+                },
+                {
+                    "year": 2007,
+                    "value": 8317.0
+                },
+                {
+                    "year": 2008,
+                    "value": 6220.0
+                },
+                {
+                    "year": 2013,
+                    "value": 1912.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4315.0
+                },
+                {
+                    "year": 2014,
+                    "value": 2233.0
+                },
+                {
+                    "year": 2017,
+                    "value": 765.0
+                },
+                {
+                    "year": 2018,
+                    "value": 875.0
+                },
+                {
+                    "year": 2015,
+                    "value": 7701.0
+                },
+                {
+                    "year": 2016,
+                    "value": 1147.0
+                },
+                {
+                    "year": 2003,
+                    "value": 5087.0
+                },
+                {
+                    "year": 2002,
+                    "value": 11780.0
+                },
+                {
+                    "year": 2001,
+                    "value": 14275.0
+                },
+                {
+                    "year": 2000,
+                    "value": 12974.0
+                },
+                {
+                    "year": 1999,
+                    "value": 13878.0
+                },
+                {
+                    "year": 1998,
+                    "value": 19442.0
+                },
+                {
+                    "year": 1997,
+                    "value": 34569.0
+                },
+                {
+                    "year": 1991,
+                    "value": 140665.0
+                },
+                {
+                    "year": 1990,
+                    "value": 260011.0
+                },
+                {
+                    "year": 1992,
+                    "value": 89494.0
+                },
+                {
+                    "year": 1994,
+                    "value": 38505.0
+                },
+                {
+                    "year": 1993,
+                    "value": 78059.0
+                },
+                {
+                    "year": 1996,
+                    "value": 41457.0
+                },
+                {
+                    "year": 1995,
+                    "value": 46282.0
+                },
+                {
+                    "year": 2021,
+                    "value": 33.0
+                },
+                {
+                    "year": 2020,
+                    "value": 52.0
+                },
+                {
+                    "year": 2019,
+                    "value": 76.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "DNK",
+            "Country or Area": "Denmark",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 1995,
+                    "value": 136.0
+                },
+                {
+                    "year": 1996,
+                    "value": 131.0
+                },
+                {
+                    "year": 1994,
+                    "value": 165.0
+                },
+                {
+                    "year": 1992,
+                    "value": 210.0
+                },
+                {
+                    "year": 1993,
+                    "value": 181.0
+                },
+                {
+                    "year": 1990,
+                    "value": 187.0
+                },
+                {
+                    "year": 1991,
+                    "value": 115.0
+                },
+                {
+                    "year": 1997,
+                    "value": 119.0
+                },
+                {
+                    "year": 1998,
+                    "value": 56.0
+                },
+                {
+                    "year": 1999,
+                    "value": 53.0
+                },
+                {
+                    "year": 2000,
+                    "value": 0.0
+                },
+                {
+                    "year": 2002,
+                    "value": 0.0
+                },
+                {
+                    "year": 2001,
+                    "value": 0.0
+                },
+                {
+                    "year": 2004,
+                    "value": 0.0
+                },
+                {
+                    "year": 2003,
+                    "value": 0.0
+                },
+                {
+                    "year": 2016,
+                    "value": 0.0
+                },
+                {
+                    "year": 2017,
+                    "value": 0.0
+                },
+                {
+                    "year": 2014,
+                    "value": 0.0
+                },
+                {
+                    "year": 2015,
+                    "value": 0.0
+                },
+                {
+                    "year": 2012,
+                    "value": 0.0
+                },
+                {
+                    "year": 2013,
+                    "value": 0.0
+                },
+                {
+                    "year": 2007,
+                    "value": 0.0
+                },
+                {
+                    "year": 2006,
+                    "value": 0.0
+                },
+                {
+                    "year": 2005,
+                    "value": 0.0
+                },
+                {
+                    "year": 2009,
+                    "value": 0.0
+                },
+                {
+                    "year": 2008,
+                    "value": 0.0
+                },
+                {
+                    "year": 2010,
+                    "value": 0.0
+                },
+                {
+                    "year": 2011,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ESP",
+            "Country or Area": "Spain",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 127.0
+                },
+                {
+                    "year": 2010,
+                    "value": 1263.0
+                },
+                {
+                    "year": 2009,
+                    "value": 729.0
+                },
+                {
+                    "year": 2005,
+                    "value": 620.0
+                },
+                {
+                    "year": 2006,
+                    "value": 577.0
+                },
+                {
+                    "year": 2008,
+                    "value": 799.0
+                },
+                {
+                    "year": 2007,
+                    "value": 765.0
+                },
+                {
+                    "year": 2013,
+                    "value": 23.0
+                },
+                {
+                    "year": 2012,
+                    "value": 58.0
+                },
+                {
+                    "year": 2015,
+                    "value": 9.0
+                },
+                {
+                    "year": 2014,
+                    "value": 12.0
+                },
+                {
+                    "year": 2016,
+                    "value": 12.0
+                },
+                {
+                    "year": 2003,
+                    "value": 530.0
+                },
+                {
+                    "year": 2004,
+                    "value": 590.0
+                },
+                {
+                    "year": 2001,
+                    "value": 475.0
+                },
+                {
+                    "year": 2002,
+                    "value": 463.0
+                },
+                {
+                    "year": 2000,
+                    "value": 2422.0
+                },
+                {
+                    "year": 1999,
+                    "value": 764.0
+                },
+                {
+                    "year": 1998,
+                    "value": 833.0
+                },
+                {
+                    "year": 1997,
+                    "value": 788.0
+                },
+                {
+                    "year": 1991,
+                    "value": 3877.0
+                },
+                {
+                    "year": 1990,
+                    "value": 1892.0
+                },
+                {
+                    "year": 1993,
+                    "value": 2479.0
+                },
+                {
+                    "year": 1992,
+                    "value": 4219.0
+                },
+                {
+                    "year": 1994,
+                    "value": 1580.0
+                },
+                {
+                    "year": 1996,
+                    "value": 1126.0
+                },
+                {
+                    "year": 1995,
+                    "value": 1351.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "EST",
+            "Country or Area": "Estonia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2019,
+                    "value": 40.0
+                },
+                {
+                    "year": 2020,
+                    "value": 43.0
+                },
+                {
+                    "year": 2021,
+                    "value": 42.0
+                },
+                {
+                    "year": 1996,
+                    "value": 16.0
+                },
+                {
+                    "year": 1994,
+                    "value": 32.0
+                },
+                {
+                    "year": 1995,
+                    "value": 32.0
+                },
+                {
+                    "year": 1990,
+                    "value": 63.0
+                },
+                {
+                    "year": 1991,
+                    "value": 32.0
+                },
+                {
+                    "year": 1997,
+                    "value": 288.0
+                },
+                {
+                    "year": 1998,
+                    "value": 290.0
+                },
+                {
+                    "year": 1999,
+                    "value": 260.0
+                },
+                {
+                    "year": 2000,
+                    "value": 231.0
+                },
+                {
+                    "year": 2002,
+                    "value": 250.0
+                },
+                {
+                    "year": 2001,
+                    "value": 288.0
+                },
+                {
+                    "year": 2004,
+                    "value": 260.0
+                },
+                {
+                    "year": 2003,
+                    "value": 266.0
+                },
+                {
+                    "year": 2016,
+                    "value": 50.0
+                },
+                {
+                    "year": 2018,
+                    "value": 43.0
+                },
+                {
+                    "year": 2014,
+                    "value": 84.0
+                },
+                {
+                    "year": 2015,
+                    "value": 30.0
+                },
+                {
+                    "year": 2012,
+                    "value": 84.0
+                },
+                {
+                    "year": 2013,
+                    "value": 138.0
+                },
+                {
+                    "year": 2007,
+                    "value": 206.0
+                },
+                {
+                    "year": 2008,
+                    "value": 140.0
+                },
+                {
+                    "year": 2006,
+                    "value": 188.0
+                },
+                {
+                    "year": 2005,
+                    "value": 306.0
+                },
+                {
+                    "year": 2009,
+                    "value": 113.0
+                },
+                {
+                    "year": 2010,
+                    "value": 97.0
+                },
+                {
+                    "year": 2011,
+                    "value": 70.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "FIN",
+            "Country or Area": "Finland",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 90.0
+                },
+                {
+                    "year": 2010,
+                    "value": 111.0
+                },
+                {
+                    "year": 2009,
+                    "value": 98.0
+                },
+                {
+                    "year": 2005,
+                    "value": 78.0
+                },
+                {
+                    "year": 2006,
+                    "value": 82.0
+                },
+                {
+                    "year": 2008,
+                    "value": 87.0
+                },
+                {
+                    "year": 2007,
+                    "value": 71.0
+                },
+                {
+                    "year": 2013,
+                    "value": 96.0
+                },
+                {
+                    "year": 2012,
+                    "value": 105.0
+                },
+                {
+                    "year": 2015,
+                    "value": 90.0
+                },
+                {
+                    "year": 2014,
+                    "value": 99.0
+                },
+                {
+                    "year": 2018,
+                    "value": 101.0
+                },
+                {
+                    "year": 2017,
+                    "value": 99.0
+                },
+                {
+                    "year": 2016,
+                    "value": 99.0
+                },
+                {
+                    "year": 2003,
+                    "value": 84.0
+                },
+                {
+                    "year": 2004,
+                    "value": 80.0
+                },
+                {
+                    "year": 2001,
+                    "value": 84.0
+                },
+                {
+                    "year": 2002,
+                    "value": 83.0
+                },
+                {
+                    "year": 2000,
+                    "value": 82.0
+                },
+                {
+                    "year": 1999,
+                    "value": 81.0
+                },
+                {
+                    "year": 1998,
+                    "value": 84.0
+                },
+                {
+                    "year": 1997,
+                    "value": 84.0
+                },
+                {
+                    "year": 1995,
+                    "value": 84.0
+                },
+                {
+                    "year": 1996,
+                    "value": 84.0
+                },
+                {
+                    "year": 2021,
+                    "value": 93.0
+                },
+                {
+                    "year": 2020,
+                    "value": 93.0
+                },
+                {
+                    "year": 2019,
+                    "value": 104.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "FRA",
+            "Country or Area": "France",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2019,
+                    "value": 1459.0
+                },
+                {
+                    "year": 2020,
+                    "value": 1282.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1540.0
+                },
+                {
+                    "year": 1996,
+                    "value": 17548.0
+                },
+                {
+                    "year": 1995,
+                    "value": 16309.0
+                },
+                {
+                    "year": 1994,
+                    "value": 17696.0
+                },
+                {
+                    "year": 1991,
+                    "value": 30176.0
+                },
+                {
+                    "year": 1990,
+                    "value": 28314.0
+                },
+                {
+                    "year": 1992,
+                    "value": 24242.0
+                },
+                {
+                    "year": 1993,
+                    "value": 22270.0
+                },
+                {
+                    "year": 1997,
+                    "value": 15374.0
+                },
+                {
+                    "year": 1998,
+                    "value": 13645.0
+                },
+                {
+                    "year": 1999,
+                    "value": 12954.0
+                },
+                {
+                    "year": 2000,
+                    "value": 10791.0
+                },
+                {
+                    "year": 2002,
+                    "value": 7270.0
+                },
+                {
+                    "year": 2001,
+                    "value": 10512.0
+                },
+                {
+                    "year": 2004,
+                    "value": 6938.0
+                },
+                {
+                    "year": 2003,
+                    "value": 7196.0
+                },
+                {
+                    "year": 2016,
+                    "value": 1846.0
+                },
+                {
+                    "year": 2017,
+                    "value": 1725.0
+                },
+                {
+                    "year": 2018,
+                    "value": 1518.0
+                },
+                {
+                    "year": 2014,
+                    "value": 1735.0
+                },
+                {
+                    "year": 2015,
+                    "value": 1780.0
+                },
+                {
+                    "year": 2012,
+                    "value": 2161.0
+                },
+                {
+                    "year": 2013,
+                    "value": 2325.0
+                },
+                {
+                    "year": 2007,
+                    "value": 5902.0
+                },
+                {
+                    "year": 2006,
+                    "value": 6085.0
+                },
+                {
+                    "year": 2005,
+                    "value": 6230.0
+                },
+                {
+                    "year": 2008,
+                    "value": 5070.0
+                },
+                {
+                    "year": 2009,
+                    "value": 4472.0
+                },
+                {
+                    "year": 2011,
+                    "value": 1935.0
+                },
+                {
+                    "year": 2010,
+                    "value": 5486.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GBR",
+            "Country or Area": "U.K. of Great Britain and Northern Ireland",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 923.0
+                },
+                {
+                    "year": 2010,
+                    "value": 946.0
+                },
+                {
+                    "year": 2009,
+                    "value": 2152.0
+                },
+                {
+                    "year": 2005,
+                    "value": 1338.0
+                },
+                {
+                    "year": 2006,
+                    "value": 749.0
+                },
+                {
+                    "year": 2007,
+                    "value": 595.0
+                },
+                {
+                    "year": 2008,
+                    "value": 686.0
+                },
+                {
+                    "year": 2013,
+                    "value": 872.0
+                },
+                {
+                    "year": 2012,
+                    "value": 506.0
+                },
+                {
+                    "year": 2015,
+                    "value": 928.0
+                },
+                {
+                    "year": 2014,
+                    "value": 868.0
+                },
+                {
+                    "year": 2018,
+                    "value": 847.0
+                },
+                {
+                    "year": 2017,
+                    "value": 899.0
+                },
+                {
+                    "year": 2016,
+                    "value": 961.0
+                },
+                {
+                    "year": 2003,
+                    "value": 551.0
+                },
+                {
+                    "year": 2004,
+                    "value": 553.0
+                },
+                {
+                    "year": 2001,
+                    "value": 1314.0
+                },
+                {
+                    "year": 2002,
+                    "value": 457.0
+                },
+                {
+                    "year": 2000,
+                    "value": 1668.0
+                },
+                {
+                    "year": 1999,
+                    "value": 5865.0
+                },
+                {
+                    "year": 1998,
+                    "value": 7865.0
+                },
+                {
+                    "year": 1997,
+                    "value": 8885.0
+                },
+                {
+                    "year": 1993,
+                    "value": 15651.0
+                },
+                {
+                    "year": 1992,
+                    "value": 25821.0
+                },
+                {
+                    "year": 1990,
+                    "value": 38192.0
+                },
+                {
+                    "year": 1991,
+                    "value": 35548.0
+                },
+                {
+                    "year": 1994,
+                    "value": 12909.0
+                },
+                {
+                    "year": 1995,
+                    "value": 9248.0
+                },
+                {
+                    "year": 1996,
+                    "value": 8408.0
+                },
+                {
+                    "year": 2021,
+                    "value": 666.0
+                },
+                {
+                    "year": 2020,
+                    "value": 641.0
+                },
+                {
+                    "year": 2019,
+                    "value": 646.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GEO",
+            "Country or Area": "Georgia",
+            "data": [
+                {
+                    "year": 2019,
+                    "value": 0.0
+                },
+                {
+                    "year": 1996,
+                    "value": 35.0
+                },
+                {
+                    "year": 1995,
+                    "value": 193.0
+                },
+                {
+                    "year": 1994,
+                    "value": 1179.0
+                },
+                {
+                    "year": 1991,
+                    "value": 809.0
+                },
+                {
+                    "year": 1990,
+                    "value": 879.0
+                },
+                {
+                    "year": 1992,
+                    "value": 879.0
+                },
+                {
+                    "year": 1993,
+                    "value": 528.0
+                },
+                {
+                    "year": 1998,
+                    "value": 87.0
+                },
+                {
+                    "year": 2016,
+                    "value": 44.0
+                },
+                {
+                    "year": 2017,
+                    "value": 22.0
+                },
+                {
+                    "year": 2018,
+                    "value": 8.0
+                },
+                {
+                    "year": 2014,
+                    "value": 27.0
+                },
+                {
+                    "year": 2015,
+                    "value": 44.0
+                },
+                {
+                    "year": 2012,
+                    "value": 528.0
+                },
+                {
+                    "year": 2013,
+                    "value": 27.0
+                },
+                {
+                    "year": 2008,
+                    "value": 316.0
+                },
+                {
+                    "year": 2007,
+                    "value": 87.0
+                },
+                {
+                    "year": 2009,
+                    "value": 1495.0
+                },
+                {
+                    "year": 2010,
+                    "value": 316.0
+                },
+                {
+                    "year": 2011,
+                    "value": 263.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GRC",
+            "Country or Area": "Greece",
+            "data": [
+                {
+                    "year": 1993,
+                    "value": 241.0
+                },
+                {
+                    "year": 1992,
+                    "value": 262.0
+                },
+                {
+                    "year": 1990,
+                    "value": 322.0
+                },
+                {
+                    "year": 1991,
+                    "value": 321.0
+                },
+                {
+                    "year": 1994,
+                    "value": 250.0
+                },
+                {
+                    "year": 1995,
+                    "value": 226.0
+                },
+                {
+                    "year": 1997,
+                    "value": 237.0
+                },
+                {
+                    "year": 1996,
+                    "value": 226.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "HRV",
+            "Country or Area": "Croatia",
+            "data": [
+                {
+                    "year": 1996,
+                    "value": 262.0
+                },
+                {
+                    "year": 1997,
+                    "value": 249.0
+                },
+                {
+                    "year": 1995,
+                    "value": 232.0
+                },
+                {
+                    "year": 1994,
+                    "value": 249.0
+                },
+                {
+                    "year": 1991,
+                    "value": 577.0
+                },
+                {
+                    "year": 1990,
+                    "value": 1048.0
+                },
+                {
+                    "year": 1992,
+                    "value": 198.0
+                },
+                {
+                    "year": 1993,
+                    "value": 626.0
+                },
+                {
+                    "year": 1998,
+                    "value": 327.0
+                },
+                {
+                    "year": 1999,
+                    "value": 188.0
+                },
+                {
+                    "year": 2000,
+                    "value": 195.0
+                },
+                {
+                    "year": 2002,
+                    "value": 204.0
+                },
+                {
+                    "year": 2001,
+                    "value": 156.0
+                },
+                {
+                    "year": 2004,
+                    "value": 173.0
+                },
+                {
+                    "year": 2003,
+                    "value": 318.0
+                },
+                {
+                    "year": 2011,
+                    "value": 130.0
+                },
+                {
+                    "year": 2010,
+                    "value": 90.0
+                },
+                {
+                    "year": 2009,
+                    "value": 126.0
+                },
+                {
+                    "year": 2007,
+                    "value": 121.0
+                },
+                {
+                    "year": 2008,
+                    "value": 119.0
+                },
+                {
+                    "year": 2006,
+                    "value": 179.0
+                },
+                {
+                    "year": 2005,
+                    "value": 101.0
+                },
+                {
+                    "year": 2013,
+                    "value": 32.0
+                },
+                {
+                    "year": 2012,
+                    "value": 116.0
+                },
+                {
+                    "year": 2015,
+                    "value": 7.0
+                },
+                {
+                    "year": 2014,
+                    "value": 22.0
+                },
+                {
+                    "year": 2018,
+                    "value": 1.0
+                },
+                {
+                    "year": 2017,
+                    "value": 5.0
+                },
+                {
+                    "year": 2016,
+                    "value": 1.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "HUN",
+            "Country or Area": "Hungary",
+            "data": [
+                {
+                    "year": 2016,
+                    "value": 120.0
+                },
+                {
+                    "year": 2017,
+                    "value": 61.0
+                },
+                {
+                    "year": 2018,
+                    "value": 63.0
+                },
+                {
+                    "year": 2014,
+                    "value": 95.0
+                },
+                {
+                    "year": 2015,
+                    "value": 122.0
+                },
+                {
+                    "year": 2012,
+                    "value": 35.0
+                },
+                {
+                    "year": 2013,
+                    "value": 102.0
+                },
+                {
+                    "year": 2005,
+                    "value": 100.0
+                },
+                {
+                    "year": 2006,
+                    "value": 183.0
+                },
+                {
+                    "year": 2008,
+                    "value": 143.0
+                },
+                {
+                    "year": 2007,
+                    "value": 151.0
+                },
+                {
+                    "year": 2009,
+                    "value": 118.0
+                },
+                {
+                    "year": 2010,
+                    "value": 114.0
+                },
+                {
+                    "year": 2011,
+                    "value": 127.0
+                },
+                {
+                    "year": 2003,
+                    "value": 412.0
+                },
+                {
+                    "year": 2004,
+                    "value": 258.0
+                },
+                {
+                    "year": 2001,
+                    "value": 560.0
+                },
+                {
+                    "year": 2002,
+                    "value": 440.0
+                },
+                {
+                    "year": 2000,
+                    "value": 970.0
+                },
+                {
+                    "year": 1999,
+                    "value": 968.0
+                },
+                {
+                    "year": 1998,
+                    "value": 820.0
+                },
+                {
+                    "year": 1993,
+                    "value": 4897.0
+                },
+                {
+                    "year": 1992,
+                    "value": 5144.0
+                },
+                {
+                    "year": 1990,
+                    "value": 3822.0
+                },
+                {
+                    "year": 1991,
+                    "value": 8833.0
+                },
+                {
+                    "year": 1994,
+                    "value": 5938.0
+                },
+                {
+                    "year": 1995,
+                    "value": 1797.0
+                },
+                {
+                    "year": 1997,
+                    "value": 885.0
+                },
+                {
+                    "year": 1996,
+                    "value": 1398.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2019,
+                    "value": 62.0
+                },
+                {
+                    "year": 2020,
+                    "value": 50.0
+                },
+                {
+                    "year": 2021,
+                    "value": 49.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IDN",
+            "Country or Area": "Indonesia",
+            "data": [
+                {
+                    "year": 2018,
+                    "value": 2.0
+                },
+                {
+                    "year": 2017,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IND",
+            "Country or Area": "India",
+            "data": [
+                {
+                    "year": 2017,
+                    "value": 185413.0
+                },
+                {
+                    "year": 2018,
+                    "value": 194060.0
+                },
+                {
+                    "year": 2016,
+                    "value": 180392.0
+                },
+                {
+                    "year": 2013,
+                    "value": 160508.0
+                },
+                {
+                    "year": 2012,
+                    "value": 153524.0
+                },
+                {
+                    "year": 2015,
+                    "value": 174413.0
+                },
+                {
+                    "year": 2014,
+                    "value": 166852.0
+                },
+                {
+                    "year": 2011,
+                    "value": 142652.0
+                },
+                {
+                    "year": 2010,
+                    "value": 132553.0
+                },
+                {
+                    "year": 2009,
+                    "value": 126791.0
+                },
+                {
+                    "year": 2007,
+                    "value": 114548.0
+                },
+                {
+                    "year": 2008,
+                    "value": 120797.0
+                },
+                {
+                    "year": 2006,
+                    "value": 109395.0
+                },
+                {
+                    "year": 2005,
+                    "value": 105406.0
+                },
+                {
+                    "year": 1996,
+                    "value": 154205.0
+                },
+                {
+                    "year": 1997,
+                    "value": 169190.0
+                },
+                {
+                    "year": 1995,
+                    "value": 147925.0
+                },
+                {
+                    "year": 1994,
+                    "value": 147469.0
+                },
+                {
+                    "year": 1991,
+                    "value": 161564.0
+                },
+                {
+                    "year": 1990,
+                    "value": 139733.0
+                },
+                {
+                    "year": 1992,
+                    "value": 151749.0
+                },
+                {
+                    "year": 1993,
+                    "value": 135397.0
+                },
+                {
+                    "year": 1998,
+                    "value": 95278.0
+                },
+                {
+                    "year": 1999,
+                    "value": 116187.0
+                },
+                {
+                    "year": 2000,
+                    "value": 106987.0
+                },
+                {
+                    "year": 2002,
+                    "value": 115943.0
+                },
+                {
+                    "year": 2001,
+                    "value": 106159.0
+                },
+                {
+                    "year": 2004,
+                    "value": 101753.0
+                },
+                {
+                    "year": 2003,
+                    "value": 121211.0
+                },
+                {
+                    "year": 2021,
+                    "value": 218472.0
+                },
+                {
+                    "year": 2020,
+                    "value": 209209.0
+                },
+                {
+                    "year": 2019,
+                    "value": 201290.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IRL",
+            "Country or Area": "Ireland",
+            "data": [
+                {
+                    "year": 2018,
+                    "value": 21.0
+                },
+                {
+                    "year": 2019,
+                    "value": 16.0
+                },
+                {
+                    "year": 2020,
+                    "value": 16.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 16.0
+                },
+                {
+                    "year": 2003,
+                    "value": 1164.0
+                },
+                {
+                    "year": 2004,
+                    "value": 1123.0
+                },
+                {
+                    "year": 2001,
+                    "value": 185.0
+                },
+                {
+                    "year": 2002,
+                    "value": 129.0
+                },
+                {
+                    "year": 2000,
+                    "value": 166.0
+                },
+                {
+                    "year": 1999,
+                    "value": 185.0
+                },
+                {
+                    "year": 1998,
+                    "value": 169.0
+                },
+                {
+                    "year": 1993,
+                    "value": 395.0
+                },
+                {
+                    "year": 1992,
+                    "value": 505.0
+                },
+                {
+                    "year": 1990,
+                    "value": 669.0
+                },
+                {
+                    "year": 1991,
+                    "value": 669.0
+                },
+                {
+                    "year": 1994,
+                    "value": 298.0
+                },
+                {
+                    "year": 1995,
+                    "value": 234.0
+                },
+                {
+                    "year": 1997,
+                    "value": 237.0
+                },
+                {
+                    "year": 1996,
+                    "value": 234.0
+                },
+                {
+                    "year": 2005,
+                    "value": 1133.0
+                },
+                {
+                    "year": 2006,
+                    "value": 1130.0
+                },
+                {
+                    "year": 2008,
+                    "value": 1114.0
+                },
+                {
+                    "year": 2007,
+                    "value": 1114.0
+                },
+                {
+                    "year": 2010,
+                    "value": 131.0
+                },
+                {
+                    "year": 2009,
+                    "value": 29.0
+                },
+                {
+                    "year": 2011,
+                    "value": 160.0
+                },
+                {
+                    "year": 2012,
+                    "value": 32.0
+                },
+                {
+                    "year": 2014,
+                    "value": 19.0
+                },
+                {
+                    "year": 2015,
+                    "value": 11.0
+                },
+                {
+                    "year": 2013,
+                    "value": 25.0
+                },
+                {
+                    "year": 2016,
+                    "value": 27.0
+                },
+                {
+                    "year": 2017,
+                    "value": 24.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ISL",
+            "Country or Area": "Iceland",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ISR",
+            "Country or Area": "Israel",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ITA",
+            "Country or Area": "Italy",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2002,
+                    "value": 10.0
+                },
+                {
+                    "year": 2003,
+                    "value": 10.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "JPN",
+            "Country or Area": "Japan",
+            "data": [
+                {
+                    "year": 2003,
+                    "value": 703.0
+                },
+                {
+                    "year": 2004,
+                    "value": 777.0
+                },
+                {
+                    "year": 2002,
+                    "value": 631.0
+                },
+                {
+                    "year": 1998,
+                    "value": 529.0
+                },
+                {
+                    "year": 1999,
+                    "value": 503.0
+                },
+                {
+                    "year": 2000,
+                    "value": 502.0
+                },
+                {
+                    "year": 2001,
+                    "value": 577.0
+                },
+                {
+                    "year": 1996,
+                    "value": 576.0
+                },
+                {
+                    "year": 1997,
+                    "value": 556.0
+                },
+                {
+                    "year": 1995,
+                    "value": 583.0
+                },
+                {
+                    "year": 1994,
+                    "value": 560.0
+                },
+                {
+                    "year": 1991,
+                    "value": 494.0
+                },
+                {
+                    "year": 1990,
+                    "value": 465.0
+                },
+                {
+                    "year": 1992,
+                    "value": 527.0
+                },
+                {
+                    "year": 1993,
+                    "value": 551.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4749.0
+                },
+                {
+                    "year": 2016,
+                    "value": 7046.0
+                },
+                {
+                    "year": 2017,
+                    "value": 7337.0
+                },
+                {
+                    "year": 2013,
+                    "value": 8261.0
+                },
+                {
+                    "year": 2015,
+                    "value": 8041.0
+                },
+                {
+                    "year": 2014,
+                    "value": 7854.0
+                },
+                {
+                    "year": 2012,
+                    "value": 7690.0
+                },
+                {
+                    "year": 2011,
+                    "value": 9611.0
+                },
+                {
+                    "year": 2009,
+                    "value": 9638.0
+                },
+                {
+                    "year": 2010,
+                    "value": 10123.0
+                },
+                {
+                    "year": 2007,
+                    "value": 2459.0
+                },
+                {
+                    "year": 2008,
+                    "value": 8452.0
+                },
+                {
+                    "year": 2006,
+                    "value": 794.0
+                },
+                {
+                    "year": 2005,
+                    "value": 828.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 8517.0
+                },
+                {
+                    "year": 2020,
+                    "value": 8632.0
+                },
+                {
+                    "year": 2019,
+                    "value": 5186.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KAZ",
+            "Country or Area": "Kazakhstan",
+            "data": [
+                {
+                    "year": 2019,
+                    "value": 29355.0
+                },
+                {
+                    "year": 2020,
+                    "value": 28141.0
+                },
+                {
+                    "year": 2021,
+                    "value": 31259.0
+                },
+                {
+                    "year": 2008,
+                    "value": 31594.0
+                },
+                {
+                    "year": 2010,
+                    "value": 31802.0
+                },
+                {
+                    "year": 2009,
+                    "value": 29406.0
+                },
+                {
+                    "year": 2011,
+                    "value": 32989.0
+                },
+                {
+                    "year": 2012,
+                    "value": 28406.0
+                },
+                {
+                    "year": 2014,
+                    "value": 31580.0
+                },
+                {
+                    "year": 2015,
+                    "value": 28917.0
+                },
+                {
+                    "year": 2013,
+                    "value": 30043.0
+                },
+                {
+                    "year": 2017,
+                    "value": 34573.0
+                },
+                {
+                    "year": 2016,
+                    "value": 30681.0
+                },
+                {
+                    "year": 2018,
+                    "value": 35876.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KGZ",
+            "Country or Area": "Kyrgyzstan",
+            "data": [
+                {
+                    "year": 2018,
+                    "value": 3747.0
+                },
+                {
+                    "year": 2016,
+                    "value": 5179.0
+                },
+                {
+                    "year": 2017,
+                    "value": 2908.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3110.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3155.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3227.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KOR",
+            "Country or Area": "Korea",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 1990,
+                    "value": 1117.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LTU",
+            "Country or Area": "Lithuania",
+            "data": [
+                {
+                    "year": 1990,
+                    "value": 12472.0
+                },
+                {
+                    "year": 1991,
+                    "value": 14858.0
+                },
+                {
+                    "year": 1993,
+                    "value": 7710.0
+                },
+                {
+                    "year": 1992,
+                    "value": 8026.0
+                },
+                {
+                    "year": 1994,
+                    "value": 7277.0
+                },
+                {
+                    "year": 1995,
+                    "value": 6742.0
+                },
+                {
+                    "year": 1997,
+                    "value": 3729.0
+                },
+                {
+                    "year": 1996,
+                    "value": 5325.0
+                },
+                {
+                    "year": 2001,
+                    "value": 1550.0
+                },
+                {
+                    "year": 2000,
+                    "value": 1876.0
+                },
+                {
+                    "year": 1999,
+                    "value": 2746.0
+                },
+                {
+                    "year": 1998,
+                    "value": 3734.0
+                },
+                {
+                    "year": 2002,
+                    "value": 1816.0
+                },
+                {
+                    "year": 2004,
+                    "value": 1810.0
+                },
+                {
+                    "year": 2003,
+                    "value": 1839.0
+                },
+                {
+                    "year": 2017,
+                    "value": 1665.0
+                },
+                {
+                    "year": 2016,
+                    "value": 1601.0
+                },
+                {
+                    "year": 2018,
+                    "value": 1724.0
+                },
+                {
+                    "year": 2013,
+                    "value": 2007.0
+                },
+                {
+                    "year": 2015,
+                    "value": 1311.0
+                },
+                {
+                    "year": 2014,
+                    "value": 1756.0
+                },
+                {
+                    "year": 2012,
+                    "value": 1716.0
+                },
+                {
+                    "year": 2011,
+                    "value": 2454.0
+                },
+                {
+                    "year": 2009,
+                    "value": 2036.0
+                },
+                {
+                    "year": 2010,
+                    "value": 2056.0
+                },
+                {
+                    "year": 2008,
+                    "value": 1653.0
+                },
+                {
+                    "year": 2007,
+                    "value": 2174.0
+                },
+                {
+                    "year": 2005,
+                    "value": 2122.0
+                },
+                {
+                    "year": 2006,
+                    "value": 2850.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1169.0
+                },
+                {
+                    "year": 2019,
+                    "value": 1450.0
+                },
+                {
+                    "year": 2020,
+                    "value": 958.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LUX",
+            "Country or Area": "Luxembourg",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LVA",
+            "Country or Area": "Latvia",
+            "data": [
+                {
+                    "year": 2019,
+                    "value": 112.0
+                },
+                {
+                    "year": 2020,
+                    "value": 64.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 83.0
+                },
+                {
+                    "year": 2005,
+                    "value": 970.0
+                },
+                {
+                    "year": 2006,
+                    "value": 996.0
+                },
+                {
+                    "year": 2004,
+                    "value": 1206.0
+                },
+                {
+                    "year": 2007,
+                    "value": 980.0
+                },
+                {
+                    "year": 2009,
+                    "value": 639.0
+                },
+                {
+                    "year": 2008,
+                    "value": 849.0
+                },
+                {
+                    "year": 2010,
+                    "value": 891.0
+                },
+                {
+                    "year": 2011,
+                    "value": 786.0
+                },
+                {
+                    "year": 2014,
+                    "value": 348.0
+                },
+                {
+                    "year": 2012,
+                    "value": 423.0
+                },
+                {
+                    "year": 2013,
+                    "value": 457.0
+                },
+                {
+                    "year": 2018,
+                    "value": 153.0
+                },
+                {
+                    "year": 2017,
+                    "value": 162.0
+                },
+                {
+                    "year": 2015,
+                    "value": 263.0
+                },
+                {
+                    "year": 2016,
+                    "value": 240.0
+                },
+                {
+                    "year": 2002,
+                    "value": 1366.0
+                },
+                {
+                    "year": 2003,
+                    "value": 1258.0
+                },
+                {
+                    "year": 1998,
+                    "value": 2289.0
+                },
+                {
+                    "year": 1999,
+                    "value": 1950.0
+                },
+                {
+                    "year": 2001,
+                    "value": 1466.0
+                },
+                {
+                    "year": 2000,
+                    "value": 1482.0
+                },
+                {
+                    "year": 1997,
+                    "value": 2320.0
+                },
+                {
+                    "year": 1996,
+                    "value": 2304.0
+                },
+                {
+                    "year": 1995,
+                    "value": 2307.0
+                },
+                {
+                    "year": 1994,
+                    "value": 3703.0
+                },
+                {
+                    "year": 1992,
+                    "value": 1730.0
+                },
+                {
+                    "year": 1993,
+                    "value": 1329.0
+                },
+                {
+                    "year": 1991,
+                    "value": 3647.0
+                },
+                {
+                    "year": 1990,
+                    "value": 4314.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MDA",
+            "Country or Area": "Moldova",
+            "data": [
+                {
+                    "year": 1993,
+                    "value": 3734.0
+                },
+                {
+                    "year": 1994,
+                    "value": 2805.0
+                },
+                {
+                    "year": 1995,
+                    "value": 2768.0
+                },
+                {
+                    "year": 1997,
+                    "value": 2173.0
+                },
+                {
+                    "year": 1996,
+                    "value": 2508.0
+                },
+                {
+                    "year": 2001,
+                    "value": 1244.0
+                },
+                {
+                    "year": 2000,
+                    "value": 1189.0
+                },
+                {
+                    "year": 1998,
+                    "value": 2304.0
+                },
+                {
+                    "year": 1999,
+                    "value": 1560.0
+                },
+                {
+                    "year": 2003,
+                    "value": 2173.0
+                },
+                {
+                    "year": 2004,
+                    "value": 1876.0
+                },
+                {
+                    "year": 2002,
+                    "value": 1486.0
+                },
+                {
+                    "year": 2017,
+                    "value": 736.0
+                },
+                {
+                    "year": 2016,
+                    "value": 734.0
+                },
+                {
+                    "year": 2018,
+                    "value": 789.0
+                },
+                {
+                    "year": 2013,
+                    "value": 1052.0
+                },
+                {
+                    "year": 2014,
+                    "value": 753.0
+                },
+                {
+                    "year": 2015,
+                    "value": 721.0
+                },
+                {
+                    "year": 2012,
+                    "value": 952.0
+                },
+                {
+                    "year": 2011,
+                    "value": 941.0
+                },
+                {
+                    "year": 2009,
+                    "value": 1356.0
+                },
+                {
+                    "year": 2010,
+                    "value": 978.0
+                },
+                {
+                    "year": 2008,
+                    "value": 1269.0
+                },
+                {
+                    "year": 2007,
+                    "value": 1411.0
+                },
+                {
+                    "year": 2005,
+                    "value": 1990.0
+                },
+                {
+                    "year": 2006,
+                    "value": 1636.0
+                },
+                {
+                    "year": 2021,
+                    "value": 692.0
+                },
+                {
+                    "year": 2020,
+                    "value": 633.0
+                },
+                {
+                    "year": 2019,
+                    "value": 731.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MEX",
+            "Country or Area": "Mexico",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MKD",
+            "Country or Area": "Macedonia",
+            "data": [
+                {
+                    "year": 2019,
+                    "value": 24.0
+                },
+                {
+                    "year": 2020,
+                    "value": 20.0
+                },
+                {
+                    "year": 2021,
+                    "value": 16.0
+                },
+                {
+                    "year": 2006,
+                    "value": 268.0
+                },
+                {
+                    "year": 2005,
+                    "value": 192.0
+                },
+                {
+                    "year": 2007,
+                    "value": 286.0
+                },
+                {
+                    "year": 2008,
+                    "value": 32.0
+                },
+                {
+                    "year": 2010,
+                    "value": 29.0
+                },
+                {
+                    "year": 2009,
+                    "value": 21.0
+                },
+                {
+                    "year": 2011,
+                    "value": 9.0
+                },
+                {
+                    "year": 2015,
+                    "value": 31.0
+                },
+                {
+                    "year": 2014,
+                    "value": 25.0
+                },
+                {
+                    "year": 2012,
+                    "value": 65.0
+                },
+                {
+                    "year": 2013,
+                    "value": 64.0
+                },
+                {
+                    "year": 2018,
+                    "value": 32.0
+                },
+                {
+                    "year": 2017,
+                    "value": 39.0
+                },
+                {
+                    "year": 2016,
+                    "value": 29.0
+                },
+                {
+                    "year": 2001,
+                    "value": 28.0
+                },
+                {
+                    "year": 2002,
+                    "value": 122.0
+                },
+                {
+                    "year": 2004,
+                    "value": 675.0
+                },
+                {
+                    "year": 2003,
+                    "value": 239.0
+                },
+                {
+                    "year": 1999,
+                    "value": 370.0
+                },
+                {
+                    "year": 1998,
+                    "value": 8.0
+                },
+                {
+                    "year": 2000,
+                    "value": 40.0
+                },
+                {
+                    "year": 1996,
+                    "value": 156.0
+                },
+                {
+                    "year": 1997,
+                    "value": 156.0
+                },
+                {
+                    "year": 1995,
+                    "value": 156.0
+                },
+                {
+                    "year": 1994,
+                    "value": 156.0
+                },
+                {
+                    "year": 1993,
+                    "value": 156.0
+                },
+                {
+                    "year": 1992,
+                    "value": 148.0
+                },
+                {
+                    "year": 1990,
+                    "value": 148.0
+                },
+                {
+                    "year": 1991,
+                    "value": 148.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MMR",
+            "Country or Area": "Myanmar",
+            "data": [
+                {
+                    "year": 2016,
+                    "value": 80.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MNE",
+            "Country or Area": "Montenegro",
+            "data": [
+                {
+                    "year": 2016,
+                    "value": 66.0
+                },
+                {
+                    "year": 2017,
+                    "value": 70.0
+                },
+                {
+                    "year": 2018,
+                    "value": 74.0
+                },
+                {
+                    "year": 2014,
+                    "value": 55.0
+                },
+                {
+                    "year": 2015,
+                    "value": 64.0
+                },
+                {
+                    "year": 2009,
+                    "value": 165.0
+                },
+                {
+                    "year": 2010,
+                    "value": 128.0
+                },
+                {
+                    "year": 2008,
+                    "value": 101.0
+                },
+                {
+                    "year": 2007,
+                    "value": 119.0
+                },
+                {
+                    "year": 2005,
+                    "value": 110.0
+                },
+                {
+                    "year": 2006,
+                    "value": 248.0
+                },
+                {
+                    "year": 2021,
+                    "value": 71.0
+                },
+                {
+                    "year": 2020,
+                    "value": 64.0
+                },
+                {
+                    "year": 2019,
+                    "value": 85.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MNG",
+            "Country or Area": "Mongolia",
+            "data": [
+                {
+                    "year": 2019,
+                    "value": 15.0
+                },
+                {
+                    "year": 2020,
+                    "value": 16.0
+                },
+                {
+                    "year": 2021,
+                    "value": 13.0
+                },
+                {
+                    "year": 2006,
+                    "value": 115.0
+                },
+                {
+                    "year": 2004,
+                    "value": 561.0
+                },
+                {
+                    "year": 2007,
+                    "value": 14.0
+                },
+                {
+                    "year": 2008,
+                    "value": 14.0
+                },
+                {
+                    "year": 2010,
+                    "value": 28.0
+                },
+                {
+                    "year": 2009,
+                    "value": 28.0
+                },
+                {
+                    "year": 2014,
+                    "value": 14.0
+                },
+                {
+                    "year": 2012,
+                    "value": 144.0
+                },
+                {
+                    "year": 2018,
+                    "value": 4.0
+                },
+                {
+                    "year": 2017,
+                    "value": 2.0
+                },
+                {
+                    "year": 1990,
+                    "value": 28.0
+                },
+                {
+                    "year": 1991,
+                    "value": 7287.0
+                },
+                {
+                    "year": 1992,
+                    "value": 3255.0
+                },
+                {
+                    "year": 1993,
+                    "value": 6092.0
+                },
+                {
+                    "year": 1994,
+                    "value": 6366.0
+                },
+                {
+                    "year": 1996,
+                    "value": 979.0
+                },
+                {
+                    "year": 1995,
+                    "value": 1296.0
+                },
+                {
+                    "year": 1999,
+                    "value": 1656.0
+                },
+                {
+                    "year": 2000,
+                    "value": 3269.0
+                },
+                {
+                    "year": 1997,
+                    "value": 2059.0
+                },
+                {
+                    "year": 1998,
+                    "value": 1339.0
+                },
+                {
+                    "year": 2003,
+                    "value": 806.0
+                },
+                {
+                    "year": 2001,
+                    "value": 1857.0
+                },
+                {
+                    "year": 2002,
+                    "value": 820.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NER",
+            "Country or Area": "Niger",
+            "data": [
+                {
+                    "year": 2018,
+                    "value": 20.0
+                },
+                {
+                    "year": 2017,
+                    "value": 20.0
+                },
+                {
+                    "year": 2021,
+                    "value": 15.0
+                },
+                {
+                    "year": 2020,
+                    "value": 20.0
+                },
+                {
+                    "year": 2019,
+                    "value": 20.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NLD",
+            "Country or Area": "Netherlands",
+            "data": [
+                {
+                    "year": 2018,
+                    "value": 223.0
+                },
+                {
+                    "year": 2019,
+                    "value": 156.0
+                },
+                {
+                    "year": 2020,
+                    "value": 182.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 117.0
+                },
+                {
+                    "year": 2016,
+                    "value": 234.0
+                },
+                {
+                    "year": 2017,
+                    "value": 235.0
+                },
+                {
+                    "year": 2013,
+                    "value": 100.0
+                },
+                {
+                    "year": 2015,
+                    "value": 199.0
+                },
+                {
+                    "year": 2014,
+                    "value": 40.0
+                },
+                {
+                    "year": 2009,
+                    "value": 159.0
+                },
+                {
+                    "year": 2010,
+                    "value": 159.0
+                },
+                {
+                    "year": 2012,
+                    "value": 159.0
+                },
+                {
+                    "year": 2011,
+                    "value": 159.0
+                },
+                {
+                    "year": 2008,
+                    "value": 139.0
+                },
+                {
+                    "year": 2007,
+                    "value": 100.0
+                },
+                {
+                    "year": 2005,
+                    "value": 40.0
+                },
+                {
+                    "year": 2006,
+                    "value": 40.0
+                },
+                {
+                    "year": 2002,
+                    "value": 20.0
+                },
+                {
+                    "year": 2001,
+                    "value": 20.0
+                },
+                {
+                    "year": 2003,
+                    "value": 40.0
+                },
+                {
+                    "year": 2004,
+                    "value": 20.0
+                },
+                {
+                    "year": 1998,
+                    "value": 20.0
+                },
+                {
+                    "year": 2000,
+                    "value": 20.0
+                },
+                {
+                    "year": 1999,
+                    "value": 20.0
+                },
+                {
+                    "year": 1997,
+                    "value": 20.0
+                },
+                {
+                    "year": 1995,
+                    "value": 20.0
+                },
+                {
+                    "year": 1994,
+                    "value": 49.0
+                },
+                {
+                    "year": 1992,
+                    "value": 166.0
+                },
+                {
+                    "year": 1993,
+                    "value": 337.0
+                },
+                {
+                    "year": 1990,
+                    "value": 283.0
+                },
+                {
+                    "year": 1991,
+                    "value": 195.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NOR",
+            "Country or Area": "Norway",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 56.0
+                },
+                {
+                    "year": 2008,
+                    "value": 56.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2019,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NPL",
+            "Country or Area": "Nepal",
+            "data": [
+                {
+                    "year": 2019,
+                    "value": 3153.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3294.0
+                },
+                {
+                    "year": 2021,
+                    "value": 2817.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3266.0
+                },
+                {
+                    "year": 2017,
+                    "value": 2642.0
+                },
+                {
+                    "year": 2016,
+                    "value": 2311.0
+                },
+                {
+                    "year": 2014,
+                    "value": 1607.0
+                },
+                {
+                    "year": 2015,
+                    "value": 1858.0
+                },
+                {
+                    "year": 2013,
+                    "value": 1105.0
+                },
+                {
+                    "year": 2012,
+                    "value": 1431.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NZL",
+            "Country or Area": "New Zealand",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 1345.0
+                },
+                {
+                    "year": 2013,
+                    "value": 1390.0
+                },
+                {
+                    "year": 2015,
+                    "value": 943.0
+                },
+                {
+                    "year": 2014,
+                    "value": 952.0
+                },
+                {
+                    "year": 2016,
+                    "value": 1028.0
+                },
+                {
+                    "year": 2018,
+                    "value": 734.0
+                },
+                {
+                    "year": 2017,
+                    "value": 945.0
+                },
+                {
+                    "year": 2008,
+                    "value": 1504.0
+                },
+                {
+                    "year": 2007,
+                    "value": 1387.0
+                },
+                {
+                    "year": 2006,
+                    "value": 1323.0
+                },
+                {
+                    "year": 2005,
+                    "value": 1259.0
+                },
+                {
+                    "year": 2011,
+                    "value": 1226.0
+                },
+                {
+                    "year": 2010,
+                    "value": 1373.0
+                },
+                {
+                    "year": 2009,
+                    "value": 1224.0
+                },
+                {
+                    "year": 1991,
+                    "value": 1503.0
+                },
+                {
+                    "year": 1990,
+                    "value": 1476.0
+                },
+                {
+                    "year": 1993,
+                    "value": 1615.0
+                },
+                {
+                    "year": 1992,
+                    "value": 1372.0
+                },
+                {
+                    "year": 1994,
+                    "value": 1570.0
+                },
+                {
+                    "year": 1995,
+                    "value": 1446.0
+                },
+                {
+                    "year": 1997,
+                    "value": 1395.0
+                },
+                {
+                    "year": 1996,
+                    "value": 1408.0
+                },
+                {
+                    "year": 2000,
+                    "value": 1184.0
+                },
+                {
+                    "year": 1998,
+                    "value": 1347.0
+                },
+                {
+                    "year": 1999,
+                    "value": 1199.0
+                },
+                {
+                    "year": 2004,
+                    "value": 1350.0
+                },
+                {
+                    "year": 2003,
+                    "value": 1727.0
+                },
+                {
+                    "year": 2001,
+                    "value": 1482.0
+                },
+                {
+                    "year": 2002,
+                    "value": 1431.0
+                },
+                {
+                    "year": 2021,
+                    "value": 464.0
+                },
+                {
+                    "year": 2020,
+                    "value": 537.0
+                },
+                {
+                    "year": 2019,
+                    "value": 758.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PER",
+            "Country or Area": "Peru",
+            "data": [
+                {
+                    "year": 2018,
+                    "value": 0.0
+                },
+                {
+                    "year": 2019,
+                    "value": 0.0
+                },
+                {
+                    "year": 2017,
+                    "value": 0.0
+                },
+                {
+                    "year": 2015,
+                    "value": 58.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "POL",
+            "Country or Area": "Poland",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 27079.0
+                },
+                {
+                    "year": 2016,
+                    "value": 28393.0
+                },
+                {
+                    "year": 2017,
+                    "value": 27962.0
+                },
+                {
+                    "year": 2014,
+                    "value": 28035.0
+                },
+                {
+                    "year": 2013,
+                    "value": 31703.0
+                },
+                {
+                    "year": 2012,
+                    "value": 34126.0
+                },
+                {
+                    "year": 2008,
+                    "value": 30808.0
+                },
+                {
+                    "year": 2009,
+                    "value": 33483.0
+                },
+                {
+                    "year": 2011,
+                    "value": 33598.0
+                },
+                {
+                    "year": 2010,
+                    "value": 38065.0
+                },
+                {
+                    "year": 2005,
+                    "value": 28032.0
+                },
+                {
+                    "year": 2006,
+                    "value": 32148.0
+                },
+                {
+                    "year": 2007,
+                    "value": 27839.0
+                },
+                {
+                    "year": 2002,
+                    "value": 29795.0
+                },
+                {
+                    "year": 2001,
+                    "value": 17264.0
+                },
+                {
+                    "year": 2004,
+                    "value": 28299.0
+                },
+                {
+                    "year": 2003,
+                    "value": 29739.0
+                },
+                {
+                    "year": 1998,
+                    "value": 28967.0
+                },
+                {
+                    "year": 1999,
+                    "value": 27821.0
+                },
+                {
+                    "year": 2000,
+                    "value": 21956.0
+                },
+                {
+                    "year": 1996,
+                    "value": 51525.0
+                },
+                {
+                    "year": 1997,
+                    "value": 47724.0
+                },
+                {
+                    "year": 1995,
+                    "value": 61567.0
+                },
+                {
+                    "year": 1994,
+                    "value": 63395.0
+                },
+                {
+                    "year": 1992,
+                    "value": 95300.0
+                },
+                {
+                    "year": 1993,
+                    "value": 85365.0
+                },
+                {
+                    "year": 1990,
+                    "value": 90171.0
+                },
+                {
+                    "year": 1991,
+                    "value": 91759.0
+                },
+                {
+                    "year": 2019,
+                    "value": 20567.0
+                },
+                {
+                    "year": 2018,
+                    "value": 25502.0
+                },
+                {
+                    "year": 2020,
+                    "value": 21851.0
+                },
+                {
+                    "year": 2021,
+                    "value": 26793.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PRK",
+            "Country or Area": "DPRK",
+            "data": [
+                {
+                    "year": 2021,
+                    "value": 14113.0
+                },
+                {
+                    "year": 2020,
+                    "value": 17398.0
+                },
+                {
+                    "year": 2018,
+                    "value": 15909.0
+                },
+                {
+                    "year": 2019,
+                    "value": 18145.0
+                },
+                {
+                    "year": 2017,
+                    "value": 18491.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PRT",
+            "Country or Area": "Portugal",
+            "data": [
+                {
+                    "year": 1991,
+                    "value": 528.0
+                },
+                {
+                    "year": 1990,
+                    "value": 481.0
+                },
+                {
+                    "year": 1992,
+                    "value": 559.0
+                },
+                {
+                    "year": 1993,
+                    "value": 606.0
+                },
+                {
+                    "year": 1994,
+                    "value": 583.0
+                },
+                {
+                    "year": 1996,
+                    "value": 707.0
+                },
+                {
+                    "year": 1995,
+                    "value": 659.0
+                },
+                {
+                    "year": 2000,
+                    "value": 659.0
+                },
+                {
+                    "year": 1999,
+                    "value": 939.0
+                },
+                {
+                    "year": 1997,
+                    "value": 700.0
+                },
+                {
+                    "year": 1998,
+                    "value": 818.0
+                },
+                {
+                    "year": 2001,
+                    "value": 51.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ROU",
+            "Country or Area": "Romania",
+            "data": [
+                {
+                    "year": 2019,
+                    "value": 17.0
+                },
+                {
+                    "year": 2018,
+                    "value": 27.0
+                },
+                {
+                    "year": 2020,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 5.0
+                },
+                {
+                    "year": 2001,
+                    "value": 307.0
+                },
+                {
+                    "year": 2002,
+                    "value": 184.0
+                },
+                {
+                    "year": 2003,
+                    "value": 116.0
+                },
+                {
+                    "year": 1999,
+                    "value": 119.0
+                },
+                {
+                    "year": 2000,
+                    "value": 150.0
+                },
+                {
+                    "year": 2016,
+                    "value": 36.0
+                },
+                {
+                    "year": 2015,
+                    "value": 18.0
+                },
+                {
+                    "year": 2012,
+                    "value": 17.0
+                },
+                {
+                    "year": 2013,
+                    "value": 25.0
+                },
+                {
+                    "year": 2014,
+                    "value": 17.0
+                },
+                {
+                    "year": 2006,
+                    "value": 122.0
+                },
+                {
+                    "year": 2007,
+                    "value": 69.0
+                },
+                {
+                    "year": 2004,
+                    "value": 47.0
+                },
+                {
+                    "year": 2005,
+                    "value": 15.0
+                },
+                {
+                    "year": 2010,
+                    "value": 23.0
+                },
+                {
+                    "year": 2011,
+                    "value": 31.0
+                },
+                {
+                    "year": 2009,
+                    "value": 7.0
+                },
+                {
+                    "year": 2008,
+                    "value": 16.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "RUS",
+            "Country or Area": "Russian Federation",
+            "data": [
+                {
+                    "year": 2008,
+                    "value": 131941.0
+                },
+                {
+                    "year": 2009,
+                    "value": 106751.0
+                },
+                {
+                    "year": 2011,
+                    "value": 101137.0
+                },
+                {
+                    "year": 2010,
+                    "value": 103568.0
+                },
+                {
+                    "year": 2005,
+                    "value": 111954.0
+                },
+                {
+                    "year": 2004,
+                    "value": 13661.0
+                },
+                {
+                    "year": 2007,
+                    "value": 82603.0
+                },
+                {
+                    "year": 2006,
+                    "value": 94995.0
+                },
+                {
+                    "year": 2014,
+                    "value": 45123.0
+                },
+                {
+                    "year": 2013,
+                    "value": 79718.0
+                },
+                {
+                    "year": 2012,
+                    "value": 107317.0
+                },
+                {
+                    "year": 2015,
+                    "value": 57958.0
+                },
+                {
+                    "year": 2016,
+                    "value": 51757.0
+                },
+                {
+                    "year": 2017,
+                    "value": 40370.0
+                },
+                {
+                    "year": 2018,
+                    "value": 22841.0
+                },
+                {
+                    "year": 2000,
+                    "value": 16220.0
+                },
+                {
+                    "year": 1999,
+                    "value": 39795.0
+                },
+                {
+                    "year": 1998,
+                    "value": 33026.0
+                },
+                {
+                    "year": 1997,
+                    "value": 30911.0
+                },
+                {
+                    "year": 2003,
+                    "value": 14117.0
+                },
+                {
+                    "year": 2002,
+                    "value": 15392.0
+                },
+                {
+                    "year": 2001,
+                    "value": 14947.0
+                },
+                {
+                    "year": 1995,
+                    "value": 36411.0
+                },
+                {
+                    "year": 1996,
+                    "value": 29124.0
+                },
+                {
+                    "year": 1994,
+                    "value": 38402.0
+                },
+                {
+                    "year": 1993,
+                    "value": 15630.0
+                },
+                {
+                    "year": 1992,
+                    "value": 247563.0
+                },
+                {
+                    "year": 1990,
+                    "value": 861689.0
+                },
+                {
+                    "year": 1991,
+                    "value": 902925.0
+                },
+                {
+                    "year": 2021,
+                    "value": 29651.0
+                },
+                {
+                    "year": 2020,
+                    "value": 28273.0
+                },
+                {
+                    "year": 2019,
+                    "value": 30837.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SRB",
+            "Country or Area": "Serbia",
+            "data": [
+                {
+                    "year": 2019,
+                    "value": 1530.0
+                },
+                {
+                    "year": 2020,
+                    "value": 2294.0
+                },
+                {
+                    "year": 2021,
+                    "value": 944.0
+                },
+                {
+                    "year": 2018,
+                    "value": 1315.0
+                },
+                {
+                    "year": 2017,
+                    "value": 1840.0
+                },
+                {
+                    "year": 2016,
+                    "value": 2821.0
+                },
+                {
+                    "year": 2015,
+                    "value": 2714.0
+                },
+                {
+                    "year": 2012,
+                    "value": 5171.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3827.0
+                },
+                {
+                    "year": 2014,
+                    "value": 2008.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3603.0
+                },
+                {
+                    "year": 2007,
+                    "value": 3483.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3620.0
+                },
+                {
+                    "year": 2010,
+                    "value": 8641.0
+                },
+                {
+                    "year": 2011,
+                    "value": 11598.0
+                },
+                {
+                    "year": 2009,
+                    "value": 6105.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3041.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SVK",
+            "Country or Area": "Slovakia",
+            "data": [
+                {
+                    "year": 2008,
+                    "value": 9550.0
+                },
+                {
+                    "year": 2009,
+                    "value": 20570.0
+                },
+                {
+                    "year": 2011,
+                    "value": 13134.0
+                },
+                {
+                    "year": 2010,
+                    "value": 11707.0
+                },
+                {
+                    "year": 2005,
+                    "value": 1258.0
+                },
+                {
+                    "year": 2004,
+                    "value": 5312.0
+                },
+                {
+                    "year": 2007,
+                    "value": 6383.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3254.0
+                },
+                {
+                    "year": 2014,
+                    "value": 4492.0
+                },
+                {
+                    "year": 2013,
+                    "value": 7040.0
+                },
+                {
+                    "year": 2012,
+                    "value": 3793.0
+                },
+                {
+                    "year": 2015,
+                    "value": 4562.0
+                },
+                {
+                    "year": 2016,
+                    "value": 2386.0
+                },
+                {
+                    "year": 2017,
+                    "value": 2992.0
+                },
+                {
+                    "year": 2018,
+                    "value": 3477.0
+                },
+                {
+                    "year": 1991,
+                    "value": 53467.0
+                },
+                {
+                    "year": 1990,
+                    "value": 69194.0
+                },
+                {
+                    "year": 1992,
+                    "value": 37671.0
+                },
+                {
+                    "year": 1993,
+                    "value": 41313.0
+                },
+                {
+                    "year": 1994,
+                    "value": 28992.0
+                },
+                {
+                    "year": 1996,
+                    "value": 19673.0
+                },
+                {
+                    "year": 1995,
+                    "value": 21329.0
+                },
+                {
+                    "year": 2001,
+                    "value": 6431.0
+                },
+                {
+                    "year": 2002,
+                    "value": 8014.0
+                },
+                {
+                    "year": 2003,
+                    "value": 1494.0
+                },
+                {
+                    "year": 1997,
+                    "value": 14086.0
+                },
+                {
+                    "year": 1998,
+                    "value": 14480.0
+                },
+                {
+                    "year": 1999,
+                    "value": 11347.0
+                },
+                {
+                    "year": 2000,
+                    "value": 7917.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3029.0
+                },
+                {
+                    "year": 2020,
+                    "value": 1981.0
+                },
+                {
+                    "year": 2019,
+                    "value": 5110.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SVN",
+            "Country or Area": "Slovenia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 1999,
+                    "value": 294.0
+                },
+                {
+                    "year": 1998,
+                    "value": 293.0
+                },
+                {
+                    "year": 1997,
+                    "value": 406.0
+                },
+                {
+                    "year": 1996,
+                    "value": 562.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SWE",
+            "Country or Area": "Sweden",
+            "data": [
+                {
+                    "year": 1997,
+                    "value": 132.0
+                },
+                {
+                    "year": 1996,
+                    "value": 165.0
+                },
+                {
+                    "year": 1995,
+                    "value": 175.0
+                },
+                {
+                    "year": 1993,
+                    "value": 294.0
+                },
+                {
+                    "year": 1994,
+                    "value": 241.0
+                },
+                {
+                    "year": 1992,
+                    "value": 295.0
+                },
+                {
+                    "year": 1990,
+                    "value": 348.0
+                },
+                {
+                    "year": 1991,
+                    "value": 314.0
+                },
+                {
+                    "year": 1998,
+                    "value": 150.0
+                },
+                {
+                    "year": 1999,
+                    "value": 126.0
+                },
+                {
+                    "year": 2000,
+                    "value": 124.0
+                },
+                {
+                    "year": 2004,
+                    "value": 168.0
+                },
+                {
+                    "year": 2003,
+                    "value": 144.0
+                },
+                {
+                    "year": 2002,
+                    "value": 127.0
+                },
+                {
+                    "year": 2001,
+                    "value": 143.0
+                },
+                {
+                    "year": 2018,
+                    "value": 0.0
+                },
+                {
+                    "year": 2017,
+                    "value": 0.0
+                },
+                {
+                    "year": 2016,
+                    "value": 0.0
+                },
+                {
+                    "year": 2015,
+                    "value": 0.0
+                },
+                {
+                    "year": 2012,
+                    "value": 0.0
+                },
+                {
+                    "year": 2013,
+                    "value": 0.0
+                },
+                {
+                    "year": 2014,
+                    "value": 0.0
+                },
+                {
+                    "year": 2007,
+                    "value": 184.0
+                },
+                {
+                    "year": 2008,
+                    "value": 232.0
+                },
+                {
+                    "year": 2005,
+                    "value": 317.0
+                },
+                {
+                    "year": 2006,
+                    "value": 314.0
+                },
+                {
+                    "year": 2011,
+                    "value": 0.0
+                },
+                {
+                    "year": 2010,
+                    "value": 185.0
+                },
+                {
+                    "year": 2009,
+                    "value": 221.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TJK",
+            "Country or Area": "Tajikistan",
+            "data": [
+                {
+                    "year": 2020,
+                    "value": 92.0
+                },
+                {
+                    "year": 2019,
+                    "value": 332.0
+                },
+                {
+                    "year": 2021,
+                    "value": 73.0
+                },
+                {
+                    "year": 2016,
+                    "value": 623.0
+                },
+                {
+                    "year": 2017,
+                    "value": 30.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TUR",
+            "Country or Area": "Turkey",
+            "data": [
+                {
+                    "year": 2017,
+                    "value": 159300.0
+                },
+                {
+                    "year": 2016,
+                    "value": 155074.0
+                },
+                {
+                    "year": 2018,
+                    "value": 82922.0
+                },
+                {
+                    "year": 2015,
+                    "value": 159280.0
+                },
+                {
+                    "year": 2014,
+                    "value": 151185.0
+                },
+                {
+                    "year": 2013,
+                    "value": 145101.0
+                },
+                {
+                    "year": 2009,
+                    "value": 172621.0
+                },
+                {
+                    "year": 2010,
+                    "value": 170426.0
+                },
+                {
+                    "year": 2012,
+                    "value": 184756.0
+                },
+                {
+                    "year": 2011,
+                    "value": 156213.0
+                },
+                {
+                    "year": 2006,
+                    "value": 8591.0
+                },
+                {
+                    "year": 2005,
+                    "value": 8905.0
+                },
+                {
+                    "year": 2008,
+                    "value": 151438.0
+                },
+                {
+                    "year": 2007,
+                    "value": 10909.0
+                },
+                {
+                    "year": 2001,
+                    "value": 3516.0
+                },
+                {
+                    "year": 2002,
+                    "value": 6066.0
+                },
+                {
+                    "year": 2003,
+                    "value": 8917.0
+                },
+                {
+                    "year": 2004,
+                    "value": 10927.0
+                },
+                {
+                    "year": 2000,
+                    "value": 7460.0
+                },
+                {
+                    "year": 1999,
+                    "value": 5111.0
+                },
+                {
+                    "year": 1998,
+                    "value": 7875.0
+                },
+                {
+                    "year": 1991,
+                    "value": 11369.0
+                },
+                {
+                    "year": 1990,
+                    "value": 10665.0
+                },
+                {
+                    "year": 1993,
+                    "value": 10060.0
+                },
+                {
+                    "year": 1992,
+                    "value": 11707.0
+                },
+                {
+                    "year": 1994,
+                    "value": 7598.0
+                },
+                {
+                    "year": 1995,
+                    "value": 7611.0
+                },
+                {
+                    "year": 1996,
+                    "value": 8327.0
+                },
+                {
+                    "year": 1997,
+                    "value": 9131.0
+                },
+                {
+                    "year": 2020,
+                    "value": 164777.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 143999.0
+                },
+                {
+                    "year": 2019,
+                    "value": 124105.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TWN",
+            "Country or Area": "Taiwan",
+            "data": [
+                {
+                    "year": 1991,
+                    "value": 25.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "UKR",
+            "Country or Area": "Ukraine",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 11922.0
+                },
+                {
+                    "year": 2004,
+                    "value": 17058.0
+                },
+                {
+                    "year": 2006,
+                    "value": 13188.0
+                },
+                {
+                    "year": 2011,
+                    "value": 7001.0
+                },
+                {
+                    "year": 2010,
+                    "value": 7352.0
+                },
+                {
+                    "year": 2009,
+                    "value": 6735.0
+                },
+                {
+                    "year": 2008,
+                    "value": 9627.0
+                },
+                {
+                    "year": 2013,
+                    "value": 5383.0
+                },
+                {
+                    "year": 2012,
+                    "value": 5484.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3032.0
+                },
+                {
+                    "year": 2018,
+                    "value": 21227.0
+                },
+                {
+                    "year": 2017,
+                    "value": 4298.0
+                },
+                {
+                    "year": 2015,
+                    "value": 2759.0
+                },
+                {
+                    "year": 2016,
+                    "value": 6584.0
+                },
+                {
+                    "year": 2019,
+                    "value": 16267.0
+                },
+                {
+                    "year": 2021,
+                    "value": 15757.0
+                },
+                {
+                    "year": 2020,
+                    "value": 17647.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "URY",
+            "Country or Area": "Uruguay",
+            "data": [
+                {
+                    "year": 1992,
+                    "value": 143.0
+                },
+                {
+                    "year": 1993,
+                    "value": 143.0
+                },
+                {
+                    "year": 1990,
+                    "value": 135.0
+                },
+                {
+                    "year": 1991,
+                    "value": 139.0
+                },
+                {
+                    "year": 1996,
+                    "value": 127.0
+                },
+                {
+                    "year": 1995,
+                    "value": 127.0
+                },
+                {
+                    "year": 1994,
+                    "value": 143.0
+                },
+                {
+                    "year": 1997,
+                    "value": 127.0
+                },
+                {
+                    "year": 1998,
+                    "value": 132.0
+                },
+                {
+                    "year": 1999,
+                    "value": 135.0
+                },
+                {
+                    "year": 2000,
+                    "value": 132.0
+                },
+                {
+                    "year": 2004,
+                    "value": 56.0
+                },
+                {
+                    "year": 2003,
+                    "value": 105.0
+                },
+                {
+                    "year": 2002,
+                    "value": 120.0
+                },
+                {
+                    "year": 2001,
+                    "value": 135.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "USA",
+            "Country or Area": "USA",
+            "data": [
+                {
+                    "year": 2001,
+                    "value": 47961.0
+                },
+                {
+                    "year": 2002,
+                    "value": 91166.0
+                },
+                {
+                    "year": 2003,
+                    "value": 83116.0
+                },
+                {
+                    "year": 2004,
+                    "value": 103888.0
+                },
+                {
+                    "year": 2000,
+                    "value": 37240.0
+                },
+                {
+                    "year": 1999,
+                    "value": 37382.0
+                },
+                {
+                    "year": 1998,
+                    "value": 37126.0
+                },
+                {
+                    "year": 1997,
+                    "value": 43277.0
+                },
+                {
+                    "year": 1994,
+                    "value": 46976.0
+                },
+                {
+                    "year": 1995,
+                    "value": 45743.0
+                },
+                {
+                    "year": 1996,
+                    "value": 64880.0
+                },
+                {
+                    "year": 1991,
+                    "value": 104969.0
+                },
+                {
+                    "year": 1990,
+                    "value": 100976.0
+                },
+                {
+                    "year": 1993,
+                    "value": 48636.0
+                },
+                {
+                    "year": 1992,
+                    "value": 49267.0
+                },
+                {
+                    "year": 2016,
+                    "value": 22517.0
+                },
+                {
+                    "year": 2017,
+                    "value": 19715.0
+                },
+                {
+                    "year": 2018,
+                    "value": 17807.0
+                },
+                {
+                    "year": 2014,
+                    "value": 35722.0
+                },
+                {
+                    "year": 2015,
+                    "value": 28141.0
+                },
+                {
+                    "year": 2012,
+                    "value": 37692.0
+                },
+                {
+                    "year": 2013,
+                    "value": 32171.0
+                },
+                {
+                    "year": 2008,
+                    "value": 72486.0
+                },
+                {
+                    "year": 2009,
+                    "value": 66438.0
+                },
+                {
+                    "year": 2010,
+                    "value": 63103.0
+                },
+                {
+                    "year": 2011,
+                    "value": 54347.0
+                },
+                {
+                    "year": 2006,
+                    "value": 64126.0
+                },
+                {
+                    "year": 2005,
+                    "value": 87917.0
+                },
+                {
+                    "year": 2007,
+                    "value": 71237.0
+                },
+                {
+                    "year": 2020,
+                    "value": 13981.0
+                },
+                {
+                    "year": 2021,
+                    "value": 14105.0
+                },
+                {
+                    "year": 2019,
+                    "value": 15822.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "UZB",
+            "Country or Area": "Uzbekistan",
+            "data": [
+                {
+                    "year": 2019,
+                    "value": 3070.0
+                },
+                {
+                    "year": 2021,
+                    "value": 2084.0
+                },
+                {
+                    "year": 2020,
+                    "value": 4261.0
+                },
+                {
+                    "year": 2018,
+                    "value": 2811.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "VNM",
+            "Country or Area": "Viet Nam",
+            "data": [
+                {
+                    "year": 2018,
+                    "value": 1547.0
+                },
+                {
+                    "year": 2017,
+                    "value": 1828.0
+                },
+                {
+                    "year": 2016,
+                    "value": 2696.0
+                },
+                {
+                    "year": 2013,
+                    "value": 16552.0
+                },
+                {
+                    "year": 2012,
+                    "value": 11605.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3047.0
+                },
+                {
+                    "year": 2014,
+                    "value": 15943.0
+                },
+                {
+                    "year": 2007,
+                    "value": 13739.0
+                },
+                {
+                    "year": 2005,
+                    "value": 13950.0
+                },
+                {
+                    "year": 2006,
+                    "value": 13692.0
+                },
+                {
+                    "year": 2011,
+                    "value": 15826.0
+                },
+                {
+                    "year": 2010,
+                    "value": 15239.0
+                },
+                {
+                    "year": 2009,
+                    "value": 14653.0
+                },
+                {
+                    "year": 2008,
+                    "value": 14536.0
+                },
+                {
+                    "year": 1993,
+                    "value": 2110.0
+                },
+                {
+                    "year": 1992,
+                    "value": 1875.0
+                },
+                {
+                    "year": 1990,
+                    "value": 797.0
+                },
+                {
+                    "year": 1991,
+                    "value": 1266.0
+                },
+                {
+                    "year": 1996,
+                    "value": 8909.0
+                },
+                {
+                    "year": 1995,
+                    "value": 5861.0
+                },
+                {
+                    "year": 1994,
+                    "value": 2344.0
+                },
+                {
+                    "year": 1997,
+                    "value": 10785.0
+                },
+                {
+                    "year": 1998,
+                    "value": 10785.0
+                },
+                {
+                    "year": 1999,
+                    "value": 10855.0
+                },
+                {
+                    "year": 2000,
+                    "value": 11558.0
+                },
+                {
+                    "year": 2004,
+                    "value": 13387.0
+                },
+                {
+                    "year": 2003,
+                    "value": 13880.0
+                },
+                {
+                    "year": 2002,
+                    "value": 12191.0
+                },
+                {
+                    "year": 2001,
+                    "value": 11722.0
+                },
+                {
+                    "year": 2020,
+                    "value": 351.0
+                },
+                {
+                    "year": 2021,
+                    "value": 211.0
+                },
+                {
+                    "year": 2019,
+                    "value": 1148.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ZAF",
+            "Country or Area": "South Africa",
+            "data": [
+                {
+                    "year": 2019,
+                    "value": 53154.0
+                },
+                {
+                    "year": 2020,
+                    "value": 49782.0
+                },
+                {
+                    "year": 2021,
+                    "value": 52228.0
+                },
+                {
+                    "year": 2001,
+                    "value": 35093.0
+                },
+                {
+                    "year": 2002,
+                    "value": 45352.0
+                },
+                {
+                    "year": 2003,
+                    "value": 52134.0
+                },
+                {
+                    "year": 2004,
+                    "value": 59914.0
+                },
+                {
+                    "year": 2000,
+                    "value": 21716.0
+                },
+                {
+                    "year": 1999,
+                    "value": 21509.0
+                },
+                {
+                    "year": 1998,
+                    "value": 25603.0
+                },
+                {
+                    "year": 1997,
+                    "value": 37429.0
+                },
+                {
+                    "year": 1994,
+                    "value": 47944.0
+                },
+                {
+                    "year": 1995,
+                    "value": 41573.0
+                },
+                {
+                    "year": 1996,
+                    "value": 35917.0
+                },
+                {
+                    "year": 1991,
+                    "value": 42140.0
+                },
+                {
+                    "year": 1990,
+                    "value": 38334.0
+                },
+                {
+                    "year": 1992,
+                    "value": 42707.0
+                },
+                {
+                    "year": 1993,
+                    "value": 51926.0
+                },
+                {
+                    "year": 2008,
+                    "value": 105643.0
+                },
+                {
+                    "year": 2009,
+                    "value": 102229.0
+                },
+                {
+                    "year": 2010,
+                    "value": 41675.0
+                },
+                {
+                    "year": 2011,
+                    "value": 48883.0
+                },
+                {
+                    "year": 2006,
+                    "value": 75556.0
+                },
+                {
+                    "year": 2005,
+                    "value": 66271.0
+                },
+                {
+                    "year": 2007,
+                    "value": 96087.0
+                },
+                {
+                    "year": 2014,
+                    "value": 86735.0
+                },
+                {
+                    "year": 2015,
+                    "value": 75102.0
+                },
+                {
+                    "year": 2012,
+                    "value": 80382.0
+                },
+                {
+                    "year": 2013,
+                    "value": 84535.0
+                },
+                {
+                    "year": 2017,
+                    "value": 110537.0
+                },
+                {
+                    "year": 2016,
+                    "value": 66442.0
+                },
+                {
+                    "year": 2018,
+                    "value": 80959.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ZWE",
+            "Country or Area": "Zimbabwe",
+            "data": [
+                {
+                    "year": 2018,
+                    "value": 806.0
+                },
+                {
+                    "year": 2016,
+                    "value": 323.0
+                },
+                {
+                    "year": 2017,
+                    "value": 708.0
+                },
+                {
+                    "year": 2013,
+                    "value": 350.0
+                },
+                {
+                    "year": 2012,
+                    "value": 2564.0
+                },
+                {
+                    "year": 2015,
+                    "value": 359.0
+                },
+                {
+                    "year": 2014,
+                    "value": 378.0
+                },
+                {
+                    "year": 2007,
+                    "value": 7477.0
+                },
+                {
+                    "year": 2008,
+                    "value": 6749.0
+                },
+                {
+                    "year": 2005,
+                    "value": 2564.0
+                },
+                {
+                    "year": 2006,
+                    "value": 6020.0
+                },
+                {
+                    "year": 2011,
+                    "value": 4967.0
+                },
+                {
+                    "year": 2010,
+                    "value": 6128.0
+                },
+                {
+                    "year": 2009,
+                    "value": 7990.0
+                },
+                {
+                    "year": 1993,
+                    "value": 6749.0
+                },
+                {
+                    "year": 1992,
+                    "value": 6749.0
+                },
+                {
+                    "year": 1990,
+                    "value": 7612.0
+                },
+                {
+                    "year": 1991,
+                    "value": 7828.0
+                },
+                {
+                    "year": 1996,
+                    "value": 6236.0
+                },
+                {
+                    "year": 1995,
+                    "value": 6964.0
+                },
+                {
+                    "year": 1994,
+                    "value": 6236.0
+                },
+                {
+                    "year": 1997,
+                    "value": 6371.0
+                },
+                {
+                    "year": 1998,
+                    "value": 5156.0
+                },
+                {
+                    "year": 1999,
+                    "value": 7180.0
+                },
+                {
+                    "year": 2000,
+                    "value": 7666.0
+                },
+                {
+                    "year": 2004,
+                    "value": 1862.0
+                },
+                {
+                    "year": 2003,
+                    "value": 4400.0
+                },
+                {
+                    "year": 2002,
+                    "value": 3941.0
+                },
+                {
+                    "year": 2001,
+                    "value": 4589.0
+                },
+                {
+                    "year": 2021,
+                    "value": 451.0
+                },
+                {
+                    "year": 2020,
+                    "value": 611.0
+                },
+                {
+                    "year": 2019,
+                    "value": 638.0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "indicator": "Net official flows from UN agencies, UNECE",
+    "countryData": [
+        {
+            "Alpha-3 code": "ALB",
+            "Country or Area": "Albania",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 16090.0000482798
+                },
+                {
+                    "year": 2014,
+                    "value": -48.0000016978011
+                },
+                {
+                    "year": 2015,
+                    "value": -48.0000016978011
+                },
+                {
+                    "year": 2013,
+                    "value": 852.00002649799
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BLR",
+            "Country or Area": "Belarus",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 64593.002200126604
+                },
+                {
+                    "year": 2016,
+                    "value": 15499.9997466803
+                },
+                {
+                    "year": 2015,
+                    "value": 9251.00035965443
+                },
+                {
+                    "year": 2014,
+                    "value": 31750.9993910789
+                },
+                {
+                    "year": 2012,
+                    "value": 43159.9989533424
+                },
+                {
+                    "year": 2010,
+                    "value": 90000.0035762787
+                },
+                {
+                    "year": 2011,
+                    "value": 100000.00149011599
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KAZ",
+            "Country or Area": "Kazakhstan",
+            "data": [
+                {
+                    "year": 2014,
+                    "value": 10710.0000604987
+                },
+                {
+                    "year": 2015,
+                    "value": -2000.0000949949
+                },
+                {
+                    "year": 2016,
+                    "value": 46100.0017821789
+                },
+                {
+                    "year": 2017,
+                    "value": 611899.971961975
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KGZ",
+            "Country or Area": "Kyrgyzstan",
+            "data": [
+                {
+                    "year": 2017,
+                    "value": 76849.9970436096
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MDA",
+            "Country or Area": "Moldova",
+            "data": [
+                {
+                    "year": 2017,
+                    "value": 1329.99999914318
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SRB",
+            "Country or Area": "Serbia",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": -961.999990977347
+                },
+                {
+                    "year": 2014,
+                    "value": 32060.999423265497
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TJK",
+            "Country or Area": "Tajikistan",
+            "data": [
+                {
+                    "year": 2014,
+                    "value": 49720.0004756451
+                },
+                {
+                    "year": 2015,
+                    "value": 49699.9993920326
+                },
+                {
+                    "year": 2016,
+                    "value": 64400.002360343904
+                }
+            ]
+        }
+    ]
+}

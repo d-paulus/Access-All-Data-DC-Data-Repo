@@ -1,0 +1,2137 @@
+{
+    "indicator": "Heat generation from renewables and waste by source (Geothermal)",
+    "countryData": [
+        {
+            "Alpha-3 code": "AGO",
+            "Country or Area": "Angola",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ALB",
+            "Country or Area": "Albania",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ARE",
+            "Country or Area": "UAE",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ARM",
+            "Country or Area": "Armenia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "AUT",
+            "Country or Area": "Austria",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 560.0
+                },
+                {
+                    "year": 1993,
+                    "value": 34.0
+                },
+                {
+                    "year": 1994,
+                    "value": 33.0
+                },
+                {
+                    "year": 1995,
+                    "value": 32.0
+                },
+                {
+                    "year": 1996,
+                    "value": 34.0
+                },
+                {
+                    "year": 1997,
+                    "value": 37.0
+                },
+                {
+                    "year": 1998,
+                    "value": 38.0
+                },
+                {
+                    "year": 1999,
+                    "value": 454.0
+                },
+                {
+                    "year": 2000,
+                    "value": 416.0
+                },
+                {
+                    "year": 2001,
+                    "value": 502.0
+                },
+                {
+                    "year": 2002,
+                    "value": 402.0
+                },
+                {
+                    "year": 2003,
+                    "value": 441.0
+                },
+                {
+                    "year": 2004,
+                    "value": 422.0
+                },
+                {
+                    "year": 2005,
+                    "value": 447.0
+                },
+                {
+                    "year": 2006,
+                    "value": 554.0
+                },
+                {
+                    "year": 2007,
+                    "value": 505.0
+                },
+                {
+                    "year": 2008,
+                    "value": 536.0
+                },
+                {
+                    "year": 2009,
+                    "value": 535.0
+                },
+                {
+                    "year": 2010,
+                    "value": 538.0
+                },
+                {
+                    "year": 2011,
+                    "value": 524.0
+                },
+                {
+                    "year": 2012,
+                    "value": 578.0
+                },
+                {
+                    "year": 2013,
+                    "value": 593.0
+                },
+                {
+                    "year": 2014,
+                    "value": 519.0
+                },
+                {
+                    "year": 2015,
+                    "value": 578.0
+                },
+                {
+                    "year": 2016,
+                    "value": 587.0
+                },
+                {
+                    "year": 2017,
+                    "value": 591.0
+                },
+                {
+                    "year": 2018,
+                    "value": 573.0
+                },
+                {
+                    "year": 2019,
+                    "value": 470.0
+                },
+                {
+                    "year": 2020,
+                    "value": 515.0
+                },
+                {
+                    "year": 2021,
+                    "value": 552.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BEL",
+            "Country or Area": "Belgium",
+            "data": [
+                {
+                    "year": 2020,
+                    "value": 59.0
+                },
+                {
+                    "year": 2021,
+                    "value": 67.0
+                },
+                {
+                    "year": 2018,
+                    "value": 53.0
+                },
+                {
+                    "year": 2019,
+                    "value": 56.0
+                },
+                {
+                    "year": 2016,
+                    "value": 52.0
+                },
+                {
+                    "year": 2017,
+                    "value": 51.0
+                },
+                {
+                    "year": 2015,
+                    "value": 50.0
+                },
+                {
+                    "year": 2014,
+                    "value": 47.0
+                },
+                {
+                    "year": 2013,
+                    "value": 47.0
+                },
+                {
+                    "year": 2011,
+                    "value": 38.0
+                },
+                {
+                    "year": 2012,
+                    "value": 41.0
+                },
+                {
+                    "year": 2009,
+                    "value": 85.0
+                },
+                {
+                    "year": 2010,
+                    "value": 63.0
+                },
+                {
+                    "year": 2007,
+                    "value": 61.0
+                },
+                {
+                    "year": 2008,
+                    "value": 68.0
+                },
+                {
+                    "year": 2005,
+                    "value": 51.0
+                },
+                {
+                    "year": 2006,
+                    "value": 74.0
+                },
+                {
+                    "year": 2003,
+                    "value": 48.0
+                },
+                {
+                    "year": 2004,
+                    "value": 43.0
+                },
+                {
+                    "year": 2001,
+                    "value": 60.0
+                },
+                {
+                    "year": 2002,
+                    "value": 48.0
+                },
+                {
+                    "year": 1999,
+                    "value": 54.0
+                },
+                {
+                    "year": 2000,
+                    "value": 53.0
+                },
+                {
+                    "year": 1995,
+                    "value": 53.0
+                },
+                {
+                    "year": 1996,
+                    "value": 70.0
+                },
+                {
+                    "year": 1997,
+                    "value": 56.0
+                },
+                {
+                    "year": 1998,
+                    "value": 53.0
+                },
+                {
+                    "year": 1993,
+                    "value": 47.0
+                },
+                {
+                    "year": 1994,
+                    "value": 53.0
+                },
+                {
+                    "year": 1990,
+                    "value": 43.0
+                },
+                {
+                    "year": 1991,
+                    "value": 53.0
+                },
+                {
+                    "year": 1992,
+                    "value": 46.0
+                },
+                {
+                    "year": 2022,
+                    "value": 67.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BEN",
+            "Country or Area": "Benin",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BGD",
+            "Country or Area": "Bangladesh",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BLR",
+            "Country or Area": "Belarus",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BOL",
+            "Country or Area": "Bolivia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BRN",
+            "Country or Area": "Brunei Darussalam",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BWA",
+            "Country or Area": "Botswana",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CHN",
+            "Country or Area": "China",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CIV",
+            "Country or Area": "C\u00f4te d'Ivoire",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CMR",
+            "Country or Area": "Cameroon",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "COD",
+            "Country or Area": "DRC",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "COG",
+            "Country or Area": "Congo",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CUB",
+            "Country or Area": "Cuba",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "DEU",
+            "Country or Area": "Germany",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 1804.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1928.0
+                },
+                {
+                    "year": 2018,
+                    "value": 1333.0
+                },
+                {
+                    "year": 2019,
+                    "value": 1732.0
+                },
+                {
+                    "year": 2020,
+                    "value": 1940.0
+                },
+                {
+                    "year": 2013,
+                    "value": 207.0
+                },
+                {
+                    "year": 2014,
+                    "value": 302.0
+                },
+                {
+                    "year": 2015,
+                    "value": 626.0
+                },
+                {
+                    "year": 2016,
+                    "value": 797.0
+                },
+                {
+                    "year": 2017,
+                    "value": 641.0
+                },
+                {
+                    "year": 2003,
+                    "value": 9.0
+                },
+                {
+                    "year": 2004,
+                    "value": 50.0
+                },
+                {
+                    "year": 2005,
+                    "value": 127.0
+                },
+                {
+                    "year": 2006,
+                    "value": 142.0
+                },
+                {
+                    "year": 2007,
+                    "value": 131.0
+                },
+                {
+                    "year": 2008,
+                    "value": 234.0
+                },
+                {
+                    "year": 2010,
+                    "value": 225.0
+                },
+                {
+                    "year": 2009,
+                    "value": 229.0
+                },
+                {
+                    "year": 2012,
+                    "value": 85.0
+                },
+                {
+                    "year": 2011,
+                    "value": 51.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "DNK",
+            "Country or Area": "Denmark",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 83.0
+                },
+                {
+                    "year": 2012,
+                    "value": 144.0
+                },
+                {
+                    "year": 2009,
+                    "value": 121.0
+                },
+                {
+                    "year": 2010,
+                    "value": 106.0
+                },
+                {
+                    "year": 2008,
+                    "value": 125.0
+                },
+                {
+                    "year": 2007,
+                    "value": 144.0
+                },
+                {
+                    "year": 2006,
+                    "value": 144.0
+                },
+                {
+                    "year": 2005,
+                    "value": 86.0
+                },
+                {
+                    "year": 2004,
+                    "value": 41.0
+                },
+                {
+                    "year": 2003,
+                    "value": 41.0
+                },
+                {
+                    "year": 2002,
+                    "value": 42.0
+                },
+                {
+                    "year": 2001,
+                    "value": 36.0
+                },
+                {
+                    "year": 2000,
+                    "value": 29.0
+                },
+                {
+                    "year": 1999,
+                    "value": 27.0
+                },
+                {
+                    "year": 1993,
+                    "value": 23.0
+                },
+                {
+                    "year": 1992,
+                    "value": 23.0
+                },
+                {
+                    "year": 1991,
+                    "value": 23.0
+                },
+                {
+                    "year": 1990,
+                    "value": 24.0
+                },
+                {
+                    "year": 1994,
+                    "value": 21.0
+                },
+                {
+                    "year": 1995,
+                    "value": 23.0
+                },
+                {
+                    "year": 1998,
+                    "value": 27.0
+                },
+                {
+                    "year": 1997,
+                    "value": 25.0
+                },
+                {
+                    "year": 1996,
+                    "value": 16.0
+                },
+                {
+                    "year": 2017,
+                    "value": 76.0
+                },
+                {
+                    "year": 2016,
+                    "value": 112.0
+                },
+                {
+                    "year": 2015,
+                    "value": 70.0
+                },
+                {
+                    "year": 2014,
+                    "value": 83.0
+                },
+                {
+                    "year": 2013,
+                    "value": 114.0
+                },
+                {
+                    "year": 2020,
+                    "value": 23.0
+                },
+                {
+                    "year": 2019,
+                    "value": 34.0
+                },
+                {
+                    "year": 2018,
+                    "value": 55.0
+                },
+                {
+                    "year": 2021,
+                    "value": 27.0
+                },
+                {
+                    "year": 2022,
+                    "value": 41.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "DOM",
+            "Country or Area": "Dominican Republic",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "DZA",
+            "Country or Area": "Algeria",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ECU",
+            "Country or Area": "Ecuador",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "EGY",
+            "Country or Area": "Egypt",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ERI",
+            "Country or Area": "Eritrea",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ETH",
+            "Country or Area": "Ethiopia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "FRA",
+            "Country or Area": "France",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 7075.0
+                },
+                {
+                    "year": 2021,
+                    "value": 7075.0
+                },
+                {
+                    "year": 2018,
+                    "value": 5986.0
+                },
+                {
+                    "year": 2019,
+                    "value": 6481.0
+                },
+                {
+                    "year": 2020,
+                    "value": 6751.0
+                },
+                {
+                    "year": 2013,
+                    "value": 3879.0
+                },
+                {
+                    "year": 2012,
+                    "value": 3184.0
+                },
+                {
+                    "year": 2014,
+                    "value": 3789.0
+                },
+                {
+                    "year": 2015,
+                    "value": 3857.0
+                },
+                {
+                    "year": 2016,
+                    "value": 4397.0
+                },
+                {
+                    "year": 2017,
+                    "value": 5613.0
+                },
+                {
+                    "year": 2005,
+                    "value": 3512.0
+                },
+                {
+                    "year": 2006,
+                    "value": 3035.0
+                },
+                {
+                    "year": 2007,
+                    "value": 2874.0
+                },
+                {
+                    "year": 2008,
+                    "value": 3095.0
+                },
+                {
+                    "year": 2010,
+                    "value": 3199.0
+                },
+                {
+                    "year": 2009,
+                    "value": 2853.0
+                },
+                {
+                    "year": 2011,
+                    "value": 2991.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GAB",
+            "Country or Area": "Gabon",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GEO",
+            "Country or Area": "Georgia",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 36.0
+                },
+                {
+                    "year": 2011,
+                    "value": 36.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GHA",
+            "Country or Area": "Ghana",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GIB",
+            "Country or Area": "Gibraltar",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GNQ",
+            "Country or Area": "Equatorial Guinea",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GTM",
+            "Country or Area": "Guatemala",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "HKG",
+            "Country or Area": "Hong Kong",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "HND",
+            "Country or Area": "Honduras",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "HTI",
+            "Country or Area": "Haiti",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "HUN",
+            "Country or Area": "Hungary",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 3090.0
+                },
+                {
+                    "year": 2011,
+                    "value": 271.0
+                },
+                {
+                    "year": 2009,
+                    "value": 209.0
+                },
+                {
+                    "year": 2010,
+                    "value": 233.0
+                },
+                {
+                    "year": 2008,
+                    "value": 201.0
+                },
+                {
+                    "year": 2007,
+                    "value": 196.0
+                },
+                {
+                    "year": 2006,
+                    "value": 168.0
+                },
+                {
+                    "year": 2005,
+                    "value": 234.0
+                },
+                {
+                    "year": 1996,
+                    "value": 315.0
+                },
+                {
+                    "year": 1997,
+                    "value": 260.0
+                },
+                {
+                    "year": 1998,
+                    "value": 291.0
+                },
+                {
+                    "year": 1995,
+                    "value": 264.0
+                },
+                {
+                    "year": 1999,
+                    "value": 278.0
+                },
+                {
+                    "year": 2000,
+                    "value": 218.0
+                },
+                {
+                    "year": 2001,
+                    "value": 265.0
+                },
+                {
+                    "year": 2002,
+                    "value": 274.0
+                },
+                {
+                    "year": 2003,
+                    "value": 257.0
+                },
+                {
+                    "year": 2004,
+                    "value": 228.0
+                },
+                {
+                    "year": 2017,
+                    "value": 2749.0
+                },
+                {
+                    "year": 2016,
+                    "value": 2700.0
+                },
+                {
+                    "year": 2015,
+                    "value": 1769.0
+                },
+                {
+                    "year": 2014,
+                    "value": 1166.0
+                },
+                {
+                    "year": 2012,
+                    "value": 395.0
+                },
+                {
+                    "year": 2013,
+                    "value": 574.0
+                },
+                {
+                    "year": 2020,
+                    "value": 2772.0
+                },
+                {
+                    "year": 2019,
+                    "value": 2864.0
+                },
+                {
+                    "year": 2018,
+                    "value": 2570.0
+                },
+                {
+                    "year": 2021,
+                    "value": 2940.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IDN",
+            "Country or Area": "Indonesia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IND",
+            "Country or Area": "India",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IRN",
+            "Country or Area": "Iran",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IRQ",
+            "Country or Area": "Iraq",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ISL",
+            "Country or Area": "Iceland",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 36550.0
+                },
+                {
+                    "year": 2021,
+                    "value": 36145.0
+                },
+                {
+                    "year": 2018,
+                    "value": 39040.0
+                },
+                {
+                    "year": 2017,
+                    "value": 35260.0
+                },
+                {
+                    "year": 2020,
+                    "value": 36026.0
+                },
+                {
+                    "year": 2019,
+                    "value": 38442.0
+                },
+                {
+                    "year": 2013,
+                    "value": 27882.0
+                },
+                {
+                    "year": 2012,
+                    "value": 27609.0
+                },
+                {
+                    "year": 2014,
+                    "value": 30003.0
+                },
+                {
+                    "year": 2015,
+                    "value": 33526.0
+                },
+                {
+                    "year": 2016,
+                    "value": 36181.0
+                },
+                {
+                    "year": 2004,
+                    "value": 18694.0
+                },
+                {
+                    "year": 2003,
+                    "value": 18293.0
+                },
+                {
+                    "year": 2002,
+                    "value": 18321.0
+                },
+                {
+                    "year": 2001,
+                    "value": 17955.0
+                },
+                {
+                    "year": 2000,
+                    "value": 17598.0
+                },
+                {
+                    "year": 1999,
+                    "value": 16566.0
+                },
+                {
+                    "year": 1995,
+                    "value": 16336.0
+                },
+                {
+                    "year": 1994,
+                    "value": 16035.0
+                },
+                {
+                    "year": 1990,
+                    "value": 15336.0
+                },
+                {
+                    "year": 1991,
+                    "value": 15186.0
+                },
+                {
+                    "year": 1992,
+                    "value": 15887.0
+                },
+                {
+                    "year": 1993,
+                    "value": 15791.0
+                },
+                {
+                    "year": 1998,
+                    "value": 16018.0
+                },
+                {
+                    "year": 1997,
+                    "value": 15981.0
+                },
+                {
+                    "year": 1996,
+                    "value": 15722.0
+                },
+                {
+                    "year": 2005,
+                    "value": 19121.0
+                },
+                {
+                    "year": 2006,
+                    "value": 19343.0
+                },
+                {
+                    "year": 2007,
+                    "value": 25091.0
+                },
+                {
+                    "year": 2008,
+                    "value": 25781.0
+                },
+                {
+                    "year": 2010,
+                    "value": 25950.0
+                },
+                {
+                    "year": 2009,
+                    "value": 25976.0
+                },
+                {
+                    "year": 2011,
+                    "value": 26388.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ITA",
+            "Country or Area": "Italy",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 589.0
+                },
+                {
+                    "year": 2010,
+                    "value": 589.0
+                },
+                {
+                    "year": 2017,
+                    "value": 793.0
+                },
+                {
+                    "year": 2015,
+                    "value": 780.0
+                },
+                {
+                    "year": 2016,
+                    "value": 810.0
+                },
+                {
+                    "year": 2014,
+                    "value": 764.0
+                },
+                {
+                    "year": 2012,
+                    "value": 650.0
+                },
+                {
+                    "year": 2013,
+                    "value": 650.0
+                },
+                {
+                    "year": 2020,
+                    "value": 872.0
+                },
+                {
+                    "year": 2018,
+                    "value": 878.0
+                },
+                {
+                    "year": 2019,
+                    "value": 870.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1072.0
+                },
+                {
+                    "year": 2022,
+                    "value": 1072.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "JAM",
+            "Country or Area": "Jamaica",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "JOR",
+            "Country or Area": "Jordan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KAZ",
+            "Country or Area": "Kazakhstan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KEN",
+            "Country or Area": "Kenya",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KHM",
+            "Country or Area": "Cambodia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KWT",
+            "Country or Area": "Kuwait",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LAO",
+            "Country or Area": "Laos",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LBN",
+            "Country or Area": "Lebanon",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LBY",
+            "Country or Area": "Libya",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LKA",
+            "Country or Area": "Sri Lanka",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LTU",
+            "Country or Area": "Lithuania",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 79.0
+                },
+                {
+                    "year": 2013,
+                    "value": 35.0
+                },
+                {
+                    "year": 2014,
+                    "value": 39.0
+                },
+                {
+                    "year": 2017,
+                    "value": 15.0
+                },
+                {
+                    "year": 2015,
+                    "value": 32.0
+                },
+                {
+                    "year": 2016,
+                    "value": 41.0
+                },
+                {
+                    "year": 2010,
+                    "value": 95.0
+                },
+                {
+                    "year": 2009,
+                    "value": 107.0
+                },
+                {
+                    "year": 2011,
+                    "value": 67.0
+                },
+                {
+                    "year": 2008,
+                    "value": 14.0
+                },
+                {
+                    "year": 2007,
+                    "value": 33.0
+                },
+                {
+                    "year": 2006,
+                    "value": 35.0
+                },
+                {
+                    "year": 2005,
+                    "value": 61.0
+                },
+                {
+                    "year": 2002,
+                    "value": 198.0
+                },
+                {
+                    "year": 2003,
+                    "value": 62.0
+                },
+                {
+                    "year": 2004,
+                    "value": 61.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MDG",
+            "Country or Area": "Madagascar",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MMR",
+            "Country or Area": "Myanmar",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MNG",
+            "Country or Area": "Mongolia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MOZ",
+            "Country or Area": "Mozambique",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MUS",
+            "Country or Area": "Mauritius",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MYS",
+            "Country or Area": "Malaysia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NAM",
+            "Country or Area": "Namibia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NER",
+            "Country or Area": "Niger",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NGA",
+            "Country or Area": "Nigeria",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NIC",
+            "Country or Area": "Nicaragua",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NPL",
+            "Country or Area": "Nepal",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "OMN",
+            "Country or Area": "Oman",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PAK",
+            "Country or Area": "Pakistan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PAN",
+            "Country or Area": "Panama",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PER",
+            "Country or Area": "Peru",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PHL",
+            "Country or Area": "Philippines",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PRK",
+            "Country or Area": "DPRK",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PRY",
+            "Country or Area": "Paraguay",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "QAT",
+            "Country or Area": "Qatar",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ROU",
+            "Country or Area": "Romania",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 290.0
+                },
+                {
+                    "year": 2002,
+                    "value": 81.0
+                },
+                {
+                    "year": 2003,
+                    "value": 8.0
+                },
+                {
+                    "year": 2005,
+                    "value": 32.0
+                },
+                {
+                    "year": 2004,
+                    "value": 46.0
+                },
+                {
+                    "year": 2006,
+                    "value": 184.0
+                },
+                {
+                    "year": 2007,
+                    "value": 202.0
+                },
+                {
+                    "year": 2011,
+                    "value": 7.0
+                },
+                {
+                    "year": 2010,
+                    "value": 11.0
+                },
+                {
+                    "year": 2009,
+                    "value": 1.0
+                },
+                {
+                    "year": 2008,
+                    "value": 47.0
+                },
+                {
+                    "year": 2016,
+                    "value": 256.0
+                },
+                {
+                    "year": 2017,
+                    "value": 262.0
+                },
+                {
+                    "year": 2015,
+                    "value": 251.0
+                },
+                {
+                    "year": 2014,
+                    "value": 217.0
+                },
+                {
+                    "year": 2013,
+                    "value": 9.0
+                },
+                {
+                    "year": 2012,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 261.0
+                },
+                {
+                    "year": 2018,
+                    "value": 246.0
+                },
+                {
+                    "year": 2019,
+                    "value": 243.0
+                },
+                {
+                    "year": 2020,
+                    "value": 255.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "RUS",
+            "Country or Area": "Russian Federation",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 211.0
+                },
+                {
+                    "year": 2014,
+                    "value": 191.0
+                },
+                {
+                    "year": 2015,
+                    "value": 223.0
+                },
+                {
+                    "year": 2016,
+                    "value": 207.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "RWA",
+            "Country or Area": "Rwanda",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SAU",
+            "Country or Area": "Saudi Arabia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SDN",
+            "Country or Area": "Sudan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SEN",
+            "Country or Area": "Senegal",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SGP",
+            "Country or Area": "Singapore",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SLV",
+            "Country or Area": "El Salvador",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SSD",
+            "Country or Area": "South Sudan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SUR",
+            "Country or Area": "Suriname",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SVK",
+            "Country or Area": "Slovakia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 135.0
+                },
+                {
+                    "year": 2016,
+                    "value": 140.0
+                },
+                {
+                    "year": 2017,
+                    "value": 148.0
+                },
+                {
+                    "year": 2015,
+                    "value": 121.0
+                },
+                {
+                    "year": 2014,
+                    "value": 120.0
+                },
+                {
+                    "year": 2013,
+                    "value": 102.0
+                },
+                {
+                    "year": 2012,
+                    "value": 95.0
+                },
+                {
+                    "year": 2020,
+                    "value": 181.0
+                },
+                {
+                    "year": 2019,
+                    "value": 175.0
+                },
+                {
+                    "year": 2018,
+                    "value": 159.0
+                },
+                {
+                    "year": 2021,
+                    "value": 136.0
+                },
+                {
+                    "year": 2008,
+                    "value": 146.0
+                },
+                {
+                    "year": 2009,
+                    "value": 144.0
+                },
+                {
+                    "year": 2010,
+                    "value": 139.0
+                },
+                {
+                    "year": 2011,
+                    "value": 104.0
+                },
+                {
+                    "year": 2007,
+                    "value": 185.0
+                },
+                {
+                    "year": 2006,
+                    "value": 165.0
+                },
+                {
+                    "year": 2004,
+                    "value": 144.0
+                },
+                {
+                    "year": 2005,
+                    "value": 140.0
+                },
+                {
+                    "year": 2003,
+                    "value": 139.0
+                },
+                {
+                    "year": 2002,
+                    "value": 159.0
+                },
+                {
+                    "year": 2001,
+                    "value": 162.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SVN",
+            "Country or Area": "Slovenia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 23.0
+                },
+                {
+                    "year": 2011,
+                    "value": 22.0
+                },
+                {
+                    "year": 2021,
+                    "value": 21.0
+                },
+                {
+                    "year": 2022,
+                    "value": 21.0
+                },
+                {
+                    "year": 2018,
+                    "value": 19.0
+                },
+                {
+                    "year": 2019,
+                    "value": 19.0
+                },
+                {
+                    "year": 2020,
+                    "value": 19.0
+                },
+                {
+                    "year": 2013,
+                    "value": 23.0
+                },
+                {
+                    "year": 2012,
+                    "value": 22.0
+                },
+                {
+                    "year": 2014,
+                    "value": 19.0
+                },
+                {
+                    "year": 2015,
+                    "value": 21.0
+                },
+                {
+                    "year": 2017,
+                    "value": 18.0
+                },
+                {
+                    "year": 2016,
+                    "value": 18.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SWZ",
+            "Country or Area": "Swaziland",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SYR",
+            "Country or Area": "Syria",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TGO",
+            "Country or Area": "Togo",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "THA",
+            "Country or Area": "Thailand",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TJK",
+            "Country or Area": "Tajikistan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TKM",
+            "Country or Area": "Turkmenistan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TTO",
+            "Country or Area": "Trinidad and Tobago",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TWN",
+            "Country or Area": "Taiwan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TZA",
+            "Country or Area": "Tanzania",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "UGA",
+            "Country or Area": "Uganda",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "UKR",
+            "Country or Area": "Ukraine",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "URY",
+            "Country or Area": "Uruguay",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "UZB",
+            "Country or Area": "Uzbekistan",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "VEN",
+            "Country or Area": "Venezuela",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "VNM",
+            "Country or Area": "Viet Nam",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "YEM",
+            "Country or Area": "Yemen",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ZAF",
+            "Country or Area": "South Africa",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ZMB",
+            "Country or Area": "Zambia",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ZWE",
+            "Country or Area": "Zimbabwe",
+            "data": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        }
+    ]
+}

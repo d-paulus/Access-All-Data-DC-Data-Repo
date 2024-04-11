@@ -1,0 +1,995 @@
+{
+    "indicator": "Child employment in agriculture, female",
+    "countryData": [
+        {
+            "Alpha-3 code": "ALB",
+            "Country or Area": "Albania",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 84.14
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "AZE",
+            "Country or Area": "Azerbaijan",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 91.4
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BFA",
+            "Country or Area": "Burkina Faso",
+            "data": [
+                {
+                    "year": 2003,
+                    "value": 96.1
+                },
+                {
+                    "year": 2006,
+                    "value": 57.2
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BGD",
+            "Country or Area": "Bangladesh",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 46.59
+                },
+                {
+                    "year": 2003,
+                    "value": 64.02
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BOL",
+            "Country or Area": "Bolivia",
+            "data": [
+                {
+                    "year": 2013,
+                    "value": 75.97
+                },
+                {
+                    "year": 2015,
+                    "value": 73.46
+                },
+                {
+                    "year": 2008,
+                    "value": 72.3
+                },
+                {
+                    "year": 2009,
+                    "value": 73.11
+                },
+                {
+                    "year": 2005,
+                    "value": 82.4
+                },
+                {
+                    "year": 2002,
+                    "value": 73.4
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "BRA",
+            "Country or Area": "Brazil",
+            "data": [
+                {
+                    "year": 2004,
+                    "value": 48.9
+                },
+                {
+                    "year": 2009,
+                    "value": 35.89
+                },
+                {
+                    "year": 2008,
+                    "value": 42.8
+                },
+                {
+                    "year": 2015,
+                    "value": 44.4
+                },
+                {
+                    "year": 2013,
+                    "value": 44.47
+                },
+                {
+                    "year": 2014,
+                    "value": 40.7089918742745
+                },
+                {
+                    "year": 2011,
+                    "value": 40.45
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CHL",
+            "Country or Area": "Chile",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 18.27
+                },
+                {
+                    "year": 2003,
+                    "value": 12.2
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CMR",
+            "Country or Area": "Cameroon",
+            "data": [
+                {
+                    "year": 2001,
+                    "value": 86.32
+                },
+                {
+                    "year": 2007,
+                    "value": 86.76
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "COL",
+            "Country or Area": "Colombia",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 21.71
+                },
+                {
+                    "year": 2009,
+                    "value": 22.91
+                },
+                {
+                    "year": 2012,
+                    "value": 20.18
+                },
+                {
+                    "year": 2014,
+                    "value": 21.39
+                },
+                {
+                    "year": 2015,
+                    "value": 25.17
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "CRI",
+            "Country or Area": "Costa Rica",
+            "data": [
+                {
+                    "year": 2016,
+                    "value": 20.16
+                },
+                {
+                    "year": 2011,
+                    "value": 17.76
+                },
+                {
+                    "year": 2004,
+                    "value": 19.36
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "DOM",
+            "Country or Area": "Dominican Republic",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 2.83
+                },
+                {
+                    "year": 2009,
+                    "value": 8.75
+                },
+                {
+                    "year": 2012,
+                    "value": 8.23
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ECU",
+            "Country or Area": "Ecuador",
+            "data": [
+                {
+                    "year": 2011,
+                    "value": 69.35
+                },
+                {
+                    "year": 2015,
+                    "value": 79.38
+                },
+                {
+                    "year": 2009,
+                    "value": 72.15
+                },
+                {
+                    "year": 2006,
+                    "value": 71.02
+                },
+                {
+                    "year": 2004,
+                    "value": 68.0
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "EGY",
+            "Country or Area": "Egypt",
+            "data": [
+                {
+                    "year": 2009,
+                    "value": 62.23
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ETH",
+            "Country or Area": "Ethiopia",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 91.4
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GHA",
+            "Country or Area": "Ghana",
+            "data": [
+                {
+                    "year": 2003,
+                    "value": 67.9
+                },
+                {
+                    "year": 2012,
+                    "value": 71.19
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GIN",
+            "Country or Area": "Guinea",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 72.32
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GMB",
+            "Country or Area": "Gambia",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 97.29
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "GTM",
+            "Country or Area": "Guatemala",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 25.5800883179446
+                },
+                {
+                    "year": 2014,
+                    "value": 39.47
+                },
+                {
+                    "year": 2012,
+                    "value": 40.15
+                },
+                {
+                    "year": 2003,
+                    "value": 43.0
+                },
+                {
+                    "year": 2004,
+                    "value": 36.9
+                },
+                {
+                    "year": 2006,
+                    "value": 36.64
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "HND",
+            "Country or Area": "Honduras",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 19.09
+                },
+                {
+                    "year": 2004,
+                    "value": 20.2
+                },
+                {
+                    "year": 2011,
+                    "value": 20.74
+                },
+                {
+                    "year": 2014,
+                    "value": 14.84
+                },
+                {
+                    "year": 2013,
+                    "value": 18.62
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IDN",
+            "Country or Area": "Indonesia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 48.11
+                },
+                {
+                    "year": 2009,
+                    "value": 48.72
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "IND",
+            "Country or Area": "India",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 77.24
+                },
+                {
+                    "year": 2012,
+                    "value": 68.62
+                },
+                {
+                    "year": 2005,
+                    "value": 73.08
+                },
+                {
+                    "year": 2000,
+                    "value": 76.58
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "JAM",
+            "Country or Area": "Jamaica",
+            "data": [
+                {
+                    "year": 2002,
+                    "value": 17.08
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "JOR",
+            "Country or Area": "Jordan",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 83.74
+                },
+                {
+                    "year": 2016,
+                    "value": 52.17
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KEN",
+            "Country or Area": "Kenya",
+            "data": [
+                {
+                    "year": 1999,
+                    "value": 74.4463234797
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KGZ",
+            "Country or Area": "Kyrgyzstan",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 98.34
+                },
+                {
+                    "year": 1998,
+                    "value": 96.2880324544
+                },
+                {
+                    "year": 2014,
+                    "value": 98.1495092608398
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "KHM",
+            "Country or Area": "Cambodia",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 58.24
+                },
+                {
+                    "year": 2009,
+                    "value": 80.4
+                },
+                {
+                    "year": 2001,
+                    "value": 73.6
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LAO",
+            "Country or Area": "Laos",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 94.31
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LBR",
+            "Country or Area": "Liberia",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 73.6
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "LKA",
+            "Country or Area": "Sri Lanka",
+            "data": [
+                {
+                    "year": 2009,
+                    "value": 66.32
+                },
+                {
+                    "year": 1999,
+                    "value": 71.38
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MAR",
+            "Country or Area": "Morocco",
+            "data": [
+                {
+                    "year": 1999,
+                    "value": 60.3
+                },
+                {
+                    "year": 2004,
+                    "value": 61.27
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MDA",
+            "Country or Area": "Moldova",
+            "data": [
+                {
+                    "year": 2009,
+                    "value": 97.41
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MDG",
+            "Country or Area": "Madagascar",
+            "data": [
+                {
+                    "year": 2001,
+                    "value": 93.85
+                },
+                {
+                    "year": 2007,
+                    "value": 83.9
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MEX",
+            "Country or Area": "Mexico",
+            "data": [
+                {
+                    "year": 2004,
+                    "value": 20.6
+                },
+                {
+                    "year": 2009,
+                    "value": 16.78
+                },
+                {
+                    "year": 2010,
+                    "value": 14.77
+                },
+                {
+                    "year": 2011,
+                    "value": 14.4
+                },
+                {
+                    "year": 2013,
+                    "value": 13.16
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MLI",
+            "Country or Area": "Mali",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 76.2
+                },
+                {
+                    "year": 2007,
+                    "value": 56.45
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MNG",
+            "Country or Area": "Mongolia",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 91.94
+                },
+                {
+                    "year": 2012,
+                    "value": 85.37
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MWI",
+            "Country or Area": "Malawi",
+            "data": [
+                {
+                    "year": 2015,
+                    "value": 68.01
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NAM",
+            "Country or Area": "Namibia",
+            "data": [
+                {
+                    "year": 1999,
+                    "value": 91.5
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NER",
+            "Country or Area": "Niger",
+            "data": [
+                {
+                    "year": 2009,
+                    "value": 3.84
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NGA",
+            "Country or Area": "Nigeria",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 76.65
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NIC",
+            "Country or Area": "Nicaragua",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 31.78
+                },
+                {
+                    "year": 2012,
+                    "value": 38.91
+                },
+                {
+                    "year": 2001,
+                    "value": 32.042524725
+                },
+                {
+                    "year": 2005,
+                    "value": 34.68
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "NPL",
+            "Country or Area": "Nepal",
+            "data": [
+                {
+                    "year": 1999,
+                    "value": 85.9
+                },
+                {
+                    "year": 2008,
+                    "value": 88.93
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PAK",
+            "Country or Area": "Pakistan",
+            "data": [
+                {
+                    "year": 2008,
+                    "value": 78.48
+                },
+                {
+                    "year": 2011,
+                    "value": 81.73
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PAN",
+            "Country or Area": "Panama",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 64.5
+                },
+                {
+                    "year": 2010,
+                    "value": 73.56
+                },
+                {
+                    "year": 2014,
+                    "value": 70.88
+                },
+                {
+                    "year": 2008,
+                    "value": 62.29
+                },
+                {
+                    "year": 2003,
+                    "value": 41.28
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PER",
+            "Country or Area": "Peru",
+            "data": [
+                {
+                    "year": 2000,
+                    "value": 69.13
+                },
+                {
+                    "year": 2007,
+                    "value": 61.33
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PHL",
+            "Country or Area": "Philippines",
+            "data": [
+                {
+                    "year": 2001,
+                    "value": 53.4
+                },
+                {
+                    "year": 2011,
+                    "value": 38.77
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PRT",
+            "Country or Area": "Portugal",
+            "data": [
+                {
+                    "year": 2001,
+                    "value": 40.666828887655
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "PRY",
+            "Country or Area": "Paraguay",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 33.85
+                },
+                {
+                    "year": 2014,
+                    "value": 38.25
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ROU",
+            "Country or Area": "Romania",
+            "data": [
+                {
+                    "year": 2000,
+                    "value": 98.12
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "RWA",
+            "Country or Area": "Rwanda",
+            "data": [
+                {
+                    "year": 2008,
+                    "value": 84.69
+                },
+                {
+                    "year": 2014,
+                    "value": 71.2
+                },
+                {
+                    "year": 2011,
+                    "value": 75.38
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SDN",
+            "Country or Area": "Sudan",
+            "data": [
+                {
+                    "year": 2008,
+                    "value": 59.7
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SEN",
+            "Country or Area": "Senegal",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 67.03
+                },
+                {
+                    "year": 2011,
+                    "value": 78.76
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SLE",
+            "Country or Area": "Sierra Leone",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 83.3
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SLV",
+            "Country or Area": "El Salvador",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 12.01
+                },
+                {
+                    "year": 2009,
+                    "value": 17.87
+                },
+                {
+                    "year": 2003,
+                    "value": 17.6059663899
+                },
+                {
+                    "year": 2011,
+                    "value": 15.83
+                },
+                {
+                    "year": 2012,
+                    "value": 14.8
+                },
+                {
+                    "year": 2013,
+                    "value": 14.14
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "SSD",
+            "Country or Area": "South Sudan",
+            "data": [
+                {
+                    "year": 2008,
+                    "value": 49.38
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TGO",
+            "Country or Area": "Togo",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 75.79
+                },
+                {
+                    "year": 2010,
+                    "value": 64.26
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TJK",
+            "Country or Area": "Tajikistan",
+            "data": [
+                {
+                    "year": 1999,
+                    "value": 35.29
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TLS",
+            "Country or Area": "Timor-Leste",
+            "data": [
+                {
+                    "year": 2007,
+                    "value": 96.89
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TUR",
+            "Country or Area": "Turkey",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 71.22
+                },
+                {
+                    "year": 1999,
+                    "value": 83.3998009548
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "TZA",
+            "Country or Area": "Tanzania",
+            "data": [
+                {
+                    "year": 2001,
+                    "value": 73.124559826
+                },
+                {
+                    "year": 2006,
+                    "value": 80.45
+                },
+                {
+                    "year": 2014,
+                    "value": 93.06
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "UGA",
+            "Country or Area": "Uganda",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 96.19
+                },
+                {
+                    "year": 2006,
+                    "value": 94.89
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "URY",
+            "Country or Area": "Uruguay",
+            "data": [
+                {
+                    "year": 2009,
+                    "value": 12.31
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "VEN",
+            "Country or Area": "Venezuela",
+            "data": [
+                {
+                    "year": 2006,
+                    "value": 12.97
+                },
+                {
+                    "year": 2003,
+                    "value": 9.2422092297
+                },
+                {
+                    "year": 2005,
+                    "value": 9.0
+                },
+                {
+                    "year": 2013,
+                    "value": 9.2
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "VNM",
+            "Country or Area": "Viet Nam",
+            "data": [
+                {
+                    "year": 2012,
+                    "value": 72.73
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "YEM",
+            "Country or Area": "Yemen",
+            "data": [
+                {
+                    "year": 2010,
+                    "value": 60.98
+                },
+                {
+                    "year": 1999,
+                    "value": 96.62
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "ZMB",
+            "Country or Area": "Zambia",
+            "data": [
+                {
+                    "year": 2005,
+                    "value": 95.32
+                },
+                {
+                    "year": 2008,
+                    "value": 90.11
+                }
+            ]
+        }
+    ]
+}

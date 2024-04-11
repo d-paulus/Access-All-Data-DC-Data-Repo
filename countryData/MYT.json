@@ -1,0 +1,577 @@
+{
+    "Alpha-3 code": "MYT",
+    "Country or Area": "Mayotte",
+    "Latitude (average)": null,
+    "Longitude (average)": null,
+    "Group 1": null,
+    "Group 2": null,
+    "LDC": null,
+    "LLDC": null,
+    "SIDS": null,
+    "Income group": null,
+    "UNDP_Region": null,
+    "indicators": [
+        {
+            "indicator": "Victims of intentional homicide (all categories, all sexes, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2007,
+                    "value": 27.0
+                },
+                {
+                    "year": 2008,
+                    "value": 5.0
+                },
+                {
+                    "year": 2009,
+                    "value": 12.0
+                },
+                {
+                    "year": 2007,
+                    "value": 13.8030811544488
+                },
+                {
+                    "year": 2008,
+                    "value": 2.48774165300482
+                },
+                {
+                    "year": 2009,
+                    "value": 5.81570045265535
+                }
+            ]
+        },
+        {
+            "indicator": "Displacement due to disaster",
+            "yearlyData": [
+                {
+                    "year": 2019,
+                    "value": 10000.0
+                }
+            ]
+        },
+        {
+            "indicator": "Displacement due to conflict",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 8.0
+                },
+                {
+                    "year": 2021,
+                    "value": 8.0
+                },
+                {
+                    "year": 2022,
+                    "value": 8.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 0-1 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 0-4 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 2.0
+                },
+                {
+                    "year": 2021,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 0-14 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 4.0
+                },
+                {
+                    "year": 2022,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 0-17 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 4.0
+                },
+                {
+                    "year": 2021,
+                    "value": 4.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 0-24 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 5.0
+                },
+                {
+                    "year": 2021,
+                    "value": 5.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 5-11 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 2.0
+                },
+                {
+                    "year": 2022,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 5-14 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 2.0
+                },
+                {
+                    "year": 2022,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 12-14 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 12-16 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 15-17 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 15-24 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 2.0
+                },
+                {
+                    "year": 2021,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 25-64 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 3.0
+                },
+                {
+                    "year": 2022,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Both sexes, displaced by Conflict, aged 65+ years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 0-1 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 0-4 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 1.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 0-14 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 2.0
+                },
+                {
+                    "year": 2022,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 0-17 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 2.0
+                },
+                {
+                    "year": 2022,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 0-24 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 3.0
+                },
+                {
+                    "year": 2021,
+                    "value": 3.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 5-11 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 1.0
+                },
+                {
+                    "year": 2022,
+                    "value": 1.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 5-14 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 1.0
+                },
+                {
+                    "year": 2022,
+                    "value": 1.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 12-14 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 12-16 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 15-17 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 15-24 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 1.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 25-64 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 2.0
+                },
+                {
+                    "year": 2021,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Female, displaced by Conflict, aged 65+ years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 0-1 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 0-4 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 1.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 0-14 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 2.0
+                },
+                {
+                    "year": 2022,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 0-17 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 2.0
+                },
+                {
+                    "year": 2022,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 0-24 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 2.0
+                },
+                {
+                    "year": 2022,
+                    "value": 2.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 5-11 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 1.0
+                },
+                {
+                    "year": 2022,
+                    "value": 1.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 5-14 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 1.0
+                },
+                {
+                    "year": 2022,
+                    "value": 1.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 12-14 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 12-16 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 15-17 years",
+            "yearlyData": [
+                {
+                    "year": 2021,
+                    "value": 0.0
+                },
+                {
+                    "year": 2022,
+                    "value": 0.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 15-24 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 1.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 25-64 years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 1.0
+                },
+                {
+                    "year": 2021,
+                    "value": 1.0
+                }
+            ]
+        },
+        {
+            "indicator": "IDPs, Male, displaced by Conflict, aged 65+ years",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 0.0
+                },
+                {
+                    "year": 2021,
+                    "value": 0.0
+                }
+            ]
+        }
+    ]
+}

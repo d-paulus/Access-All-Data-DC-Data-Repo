@@ -1,0 +1,35 @@
+{
+    "indicator": "Net official flows from UN agencies, UNWTO",
+    "countryData": [
+        {
+            "Alpha-3 code": "KHM",
+            "Country or Area": "Cambodia",
+            "data": [
+                {
+                    "year": 2016,
+                    "value": 37819.3072974682
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MMR",
+            "Country or Area": "Myanmar",
+            "data": [
+                {
+                    "year": 2016,
+                    "value": 32288.1788015366
+                }
+            ]
+        },
+        {
+            "Alpha-3 code": "MNE",
+            "Country or Area": "Montenegro",
+            "data": [
+                {
+                    "year": 2016,
+                    "value": 608.647591434419
+                }
+            ]
+        }
+    ]
+}

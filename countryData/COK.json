@@ -1,0 +1,49 @@
+{
+    "Alpha-3 code": "COK",
+    "Country or Area": "Cook Islands",
+    "Latitude (average)": null,
+    "Longitude (average)": null,
+    "Group 1": null,
+    "Group 2": null,
+    "LDC": null,
+    "LLDC": null,
+    "SIDS": null,
+    "Income group": null,
+    "UNDP_Region": null,
+    "indicators": [
+        {
+            "indicator": "Victims of intentional homicide (all categories, all sexes, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2012,
+                    "value": 0.6280951
+                },
+                {
+                    "year": 2012,
+                    "value": 3.48951415317092
+                }
+            ]
+        },
+        {
+            "indicator": "Displacement due to disaster",
+            "yearlyData": [
+                {
+                    "year": 2022,
+                    "value": 7.0
+                },
+                {
+                    "year": 2021,
+                    "value": 12.0
+                },
+                {
+                    "year": 2016,
+                    "value": 6.0
+                },
+                {
+                    "year": 2010,
+                    "value": 650.0
+                }
+            ]
+        }
+    ]
+}

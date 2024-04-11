@@ -1,0 +1,175 @@
+{
+    "Alpha-3 code": "GUF",
+    "Country or Area": "French Guiana",
+    "Latitude (average)": null,
+    "Longitude (average)": null,
+    "Group 1": null,
+    "Group 2": null,
+    "LDC": null,
+    "LLDC": null,
+    "SIDS": null,
+    "Income group": null,
+    "UNDP_Region": null,
+    "indicators": [
+        {
+            "indicator": "Victims of intentional homicide (all categories, Female, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2006,
+                    "value": 3.5
+                },
+                {
+                    "year": 2007,
+                    "value": 1.75
+                },
+                {
+                    "year": 2008,
+                    "value": 1.39130434782609
+                },
+                {
+                    "year": 2009,
+                    "value": 5.45454545454545
+                },
+                {
+                    "year": 2006,
+                    "value": 3.33627243047447
+                },
+                {
+                    "year": 2007,
+                    "value": 1.6266283711873
+                },
+                {
+                    "year": 2008,
+                    "value": 1.26323734571727
+                },
+                {
+                    "year": 2009,
+                    "value": 4.8440498517317
+                }
+            ]
+        },
+        {
+            "indicator": "Victims of intentional homicide (all categories, Male, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2006,
+                    "value": 38.5
+                },
+                {
+                    "year": 2007,
+                    "value": 26.25
+                },
+                {
+                    "year": 2008,
+                    "value": 30.6086956521739
+                },
+                {
+                    "year": 2009,
+                    "value": 24.5454545454545
+                },
+                {
+                    "year": 2006,
+                    "value": 37.3924360443659
+                },
+                {
+                    "year": 2007,
+                    "value": 24.8299737984657
+                },
+                {
+                    "year": 2008,
+                    "value": 28.2424056913261
+                },
+                {
+                    "year": 2009,
+                    "value": 22.1288711694002
+                }
+            ]
+        },
+        {
+            "indicator": "Victims of intentional homicide (all categories, all sexes, all ages)",
+            "yearlyData": [
+                {
+                    "year": 2004,
+                    "value": 58.0
+                },
+                {
+                    "year": 2005,
+                    "value": 45.0
+                },
+                {
+                    "year": 2006,
+                    "value": 42.0
+                },
+                {
+                    "year": 2007,
+                    "value": 28.0
+                },
+                {
+                    "year": 2008,
+                    "value": 32.0
+                },
+                {
+                    "year": 2009,
+                    "value": 30.0
+                },
+                {
+                    "year": 2018,
+                    "value": 35.96411
+                },
+                {
+                    "year": 2019,
+                    "value": 37.781709
+                },
+                {
+                    "year": 2020,
+                    "value": 38.69901
+                },
+                {
+                    "year": 2004,
+                    "value": 29.9442159907276
+                },
+                {
+                    "year": 2005,
+                    "value": 22.3592485305005
+                },
+                {
+                    "year": 2006,
+                    "value": 20.2049843772174
+                },
+                {
+                    "year": 2007,
+                    "value": 13.1268357059308
+                },
+                {
+                    "year": 2008,
+                    "value": 14.6442030693334
+                },
+                {
+                    "year": 2009,
+                    "value": 13.4214075924903
+                },
+                {
+                    "year": 2018,
+                    "value": 13.0000234956885
+                },
+                {
+                    "year": 2019,
+                    "value": 13.3000234095169
+                },
+                {
+                    "year": 2020,
+                    "value": 13.3000228546291
+                }
+            ]
+        },
+        {
+            "indicator": "Displacement due to disaster",
+            "yearlyData": [
+                {
+                    "year": 2020,
+                    "value": 140.0
+                }
+            ]
+        }
+    ]
+}
